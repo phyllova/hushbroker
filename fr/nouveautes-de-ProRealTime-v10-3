@@ -1,0 +1,2236 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+                                    <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                <link rel="icon" type="image/x-icon" href="/favicon.svg"/>
+                                    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="UTF-8" />
+<meta property="og:title" content="Nouveaut&eacute;s de ProRealTime v10.3" />
+<meta property="og:description" content="Les nombreuses nouveaut&eacute;s de ProRealTime version 10 ont &eacute;t&eacute; pens&eacute;es pour vous rendre le trading plus agr&eacute;able." />
+<meta property="og:url" content="https://www.prorealtime.com/fr/nouveautes-de-ProRealTime-v10-3" />
+<meta property="og:image" content="https://www.prorealtime.com/" />
+<meta property="og:type" content="website" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta name="description" content="Les nombreuses nouveaut&eacute;s de ProRealTime version 10 ont &eacute;t&eacute; pens&eacute;es pour vous rendre le trading plus agr&eacute;able." />
+<meta name="keywords" />
+
+                    <link rel="canonical" href="https://www.prorealtime.com/fr/nouveautes-de-ProRealTime-v10-3"/>
+
+                    <link rel="alternate" href="https://www.prorealtime.com/en/new-features-ProRealTime-v10-3" hreflang="en"/>
+<link rel="alternate" href="https://www.prorealtime.com/fr/nouveautes-de-ProRealTime-v10-3" hreflang="fr"/>
+<link rel="alternate" href="https://www.prorealtime.com/de/neue-funktionen-bei-ProRealTime-v10-3" hreflang="de"/>
+<link rel="alternate" href="https://www.prorealtime.com/es/nuevas-funcionalidades-de-ProRealTime-v10-3" hreflang="es"/>
+<link rel="alternate" href="https://www.prorealtime.com/it/nuove-funzionalita-di-ProRealTime-v10-3" hreflang="it"/>
+<link rel="alternate" href="https://www.prorealtime.com/nl/nieuwe-features-in-ProRealTime-v10-3" hreflang="nl"/>
+
+                            
+                            <title>Nouveautés de ProRealTime v10.3</title>
+            
+            <link rel="preload" href="/build/fonts/inter-v3-latin-600.89ece7ce.woff2" as="font" type="font/woff2"
+                  crossorigin/>
+            <link rel="preload" href="/build/fonts/poppins-v15-latin-600.e49343f0.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/inter-v3-latin-regular.351b7924.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/poppins-v15-latin-regular.5b8f3ba8.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/fa-solid-900.1551f4f6.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/inter-v3-latin-900.f762a24b.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+                                                <link rel="stylesheet" href="/build/app_software.9715837d.css" as="style" integrity="sha384-VzZE5ieHdIphXjEiPj8FqjMvD6bbNbVLHJKlrEOwTocrzdK34rPVjYk7fUO2TdUt">
+                                <link rel="stylesheet" href="/build/vendor_software.9a23ab28.css" as="style" integrity="sha384-dWECfrclP1bOuZCZIZ6yONt/+vLkItkobzt3xRJkuBgf0WfwfLNtp/35kw9zz7U5">
+            
+    <link rel="stylesheet" href="/build/features_software.b40308bb.css" integrity="sha384-TWbqX6jq0xRTDMrJqmCbONyJYPnrzYPq485qXSqN0IbnBa9uhRTEBD82jfKOx2/P">
+
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" defer=""></script>
+                <script src="/build/runtime.c10a1f23.js" defer preload integrity="sha384-UlAVYFcomaGZAQjH6e7LeEO/nLSsZrnKQn0nDysUAY2ChR/ZonbzRJhs3mZDRmMA"></script><script src="/build/5495.a8c3e113.js" defer preload integrity="sha384-bxsbhnJs80HPU+E3OB2NlniIcRmgu3wW4wxRQMTXL1A5+AT/GlAIzzAtu9yLwaiE"></script><script src="/build/3138.c963d015.js" defer preload integrity="sha384-N+XTsf38qB3S7JG1XGZod1cqbtqU0SzIqebE0CdW9z3uTA+ynsdJ5HVwyQl2frjt"></script><script src="/build/2224.c4800386.js" defer preload integrity="sha384-lS3P+jnF/51CPDiL7alYKyhAxfUnXfGlvpcoLx6BUeo0LOOIcMxBx5hBQSW99r17"></script><script src="/build/9890.8df91750.js" defer preload integrity="sha384-z5AlHHQoOE/NgKOVXdrjY5xG1UryDGD1sIH/oRFfx7gksrgYDv6cfY04oNRgRDjh"></script><script src="/build/410.2672ec48.js" defer preload integrity="sha384-RkGVJQ84GupqsP3PuGARNKYs6fQujRGhHSUJCtelGwe4qHUsnS7ozGF6ik9BRJ4j"></script><script src="/build/5713.5b304bce.js" defer preload integrity="sha384-NyXr0H5jyJDrhArBa8XpX79H0bOUYCTtAIwX+Xl+wG6/ncBBsn8AtVs0Rt/VwaDW"></script><script src="/build/5504.793e02c8.js" defer preload integrity="sha384-VZ6UoWZACsUCUTTj9VmtzMAJR9pvVUpT5hJRpkKX8zaaPxd14HLN11syouwnTzrT"></script><script src="/build/app_software.48a5cb89.js" defer preload integrity="sha384-VBQutHpli/D/9DCj3ZxG3D040Mc4FyQDaqdxYZipN4PVVnXYK7FHvkl5ThS7W697"></script>
+                    
+                    <script>
+                let appRequestHost = "//www.prorealtime.com";
+                let matomoHost = '/t/';
+            </script>
+            <script type="text/javascript">
+                let _paq = window._paq || [];
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+
+                let loadPiwik = function () {
+                    (function () {
+                        let u = appRequestHost;
+                        let d, g, s;
+                        _paq.push(['setTrackerUrl', 'https:' + u + matomoHost]);
+                        _paq.push(['setSiteId', '0']);
+                                                                        d = document;
+                        g = d.createElement('script');
+                        s = d.getElementsByTagName('script')[0];
+                        g.type = 'text/javascript';
+                        g.async = true;
+                        g.defer = true;
+                        g.src = 'https:' + u + '/build/3231.0641edb6.js';
+                        s.parentNode.insertBefore(g, s);
+                                                d = document;
+                        g = d.createElement('script');
+                        s = d.getElementsByTagName('script')[0];
+                        g.type = 'text/javascript';
+                        g.async = true;
+                        g.defer = true;
+                        g.src = 'https:' + u + '/build/matomo.9ecc0eec.js';
+                        s.parentNode.insertBefore(g, s);
+                                            })();
+                };
+
+                window.addEventListener('load', function () {
+                    $('body').one('onmouseover mousemove scroll resize touchstart touchcancel touchend touchmove', loadPiwik);
+                });
+            </script>
+            </head>
+    <body
+        class=" hero-header page_features  "
+        data-controller="modal-manager scroll" data-turbo="false"
+                data-pos="0" data-device="desktop"
+    >
+                
+
+<header id="header" class="header-dark header_transparent fixed-top">
+    <div class="navbar-mini-container">
+        <nav class="navbar navbar-mini navbar-dark container-lg d-none d-md-flex align-items-stretch py-0"
+             id="miniNavbar"
+        >
+            <ul class="navbar-nav flex-fill flex-row align-items-stretch gap-4">
+                <li class="nav-item">
+                    <button type="button" class="btn language-selector-button nav-link"
+                            data-bs-toggle="offcanvas" data-bs-target="#countryLanguageSelector"
+                    >
+                        <span class="me-2"><svg class="icon-world"><use href="/build/images/svg-icons/common.89b27f4d.svg#world"/></svg></span>
+                        Nigeria                    </button>
+                </li>
+                                    <li class="nav-item web-search-btn">
+                        <button data-action="modal-manager#open" data-modal-url="/fr/web-search">
+                            <span
+                                class="mx-2"><svg class="icon-search"><use href="/build/images/svg-icons/common.89b27f4d.svg#search"/></svg></span>Rechercher une valeur ...
+                        </button>
+                    </li>
+                                <li class="nav-item flex-grow-1">
+                                    </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/fr/help">Aide &amp; Support</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link d-md-none d-lg-flex" href="/fr/careers" target="_blank">Carrières</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/fr/contact">Contactez-nous</a>
+                </li>
+                <li class="nav-item d-md-none d-lg-flex">
+                    <span class="badge"><i class="fa fa-phone me-2"></i>+33 (0) 178 766 766</span>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <nav class="navbar navbar-expand-md navbar-dark container-lg align-items-center text-nowrap" id="mainNavbar">
+        <a class="navbar-logo text-decoration-none" href="/fr/" aria-label="ProRealTime">
+                            <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="160px" height="34px" viewBox="0 0 160 34" enable-background="new 0 0 160 34" xml:space="preserve">
+<path fill="#FFFFFF" d="M71.63,4.08v5.45h3.19c0.76,0.02,1.49-0.26,2.05-0.78c0.55-0.5,0.85-1.22,0.84-1.97
+	c0-0.71-0.28-1.39-0.8-1.88c-0.51-0.54-1.22-0.84-1.96-0.82L71.63,4.08z M71.63,17.65h-1.98V2.17h5.26
+	c1.27-0.03,2.49,0.45,3.41,1.34c0.93,0.83,1.45,2.02,1.42,3.27c0.01,1.05-0.37,2.06-1.06,2.85c-0.67,0.81-1.6,1.37-2.63,1.58
+	l-0.04,0.06l4.33,6.29v0.08h-2.35l-4.16-6.27h-2.2V17.65z M87.38,18c-1.45,0.04-2.85-0.54-3.84-1.6c-1.02-1.09-1.56-2.55-1.51-4.04
+	c-0.05-1.48,0.48-2.92,1.47-4.02c0.95-1.07,2.32-1.66,3.75-1.62c1.41-0.07,2.77,0.5,3.73,1.53c1,1.19,1.5,2.71,1.4,4.26l-0.02,0.22
+	h-8.3c-0.01,0.94,0.36,1.85,1.03,2.51c1.32,1.29,3.44,1.26,4.73-0.06c0.25-0.26,0.46-0.56,0.62-0.89l1.77,0.86
+	c-0.45,0.87-1.14,1.6-1.98,2.1C89.36,17.75,88.38,18.01,87.38,18z M84.21,11.08h6.06c-0.04-0.7-0.37-1.36-0.91-1.82
+	c-0.6-0.51-1.37-0.78-2.16-0.74c-0.71-0.01-1.4,0.23-1.94,0.69C84.72,9.71,84.34,10.36,84.21,11.08z M96.82,14.41
+	c0,0.51,0.24,0.99,0.65,1.3c0.44,0.34,0.99,0.53,1.55,0.51c0.83,0,1.63-0.33,2.22-0.93c0.63-0.55,0.99-1.35,0.99-2.18
+	c-0.75-0.53-1.67-0.79-2.59-0.74c-0.72-0.03-1.43,0.18-2.03,0.58C97.12,13.28,96.82,13.82,96.82,14.41z M99.39,6.71
+	c1.27-0.07,2.51,0.36,3.47,1.19c0.87,0.84,1.34,2.01,1.27,3.22v6.52h-1.9v-1.47h-0.09c-0.7,1.14-1.94,1.83-3.28,1.82
+	c-1.07,0.03-2.12-0.34-2.93-1.04c-0.76-0.65-1.18-1.6-1.16-2.59c-0.03-1.02,0.42-1.99,1.23-2.62c0.96-0.69,2.13-1.03,3.31-0.97
+	c1.01-0.04,2.01,0.18,2.91,0.65v-0.45c0.01-0.68-0.3-1.32-0.82-1.75c-0.52-0.48-1.2-0.74-1.91-0.74c-1.06-0.02-2.06,0.51-2.63,1.41
+	l-1.75-1.1C96.08,7.4,97.7,6.62,99.39,6.71L99.39,6.71z M109.43,2.17v15.47h-1.98V2.17H109.43z M118.53,4.08v13.57h-1.98V4.08h-4.31
+	v-1.9h10.61v1.9H118.53z M127.55,3.41c0.01,0.37-0.14,0.73-0.41,0.99c-0.55,0.55-1.44,0.55-1.98,0c-0.27-0.26-0.42-0.62-0.41-0.99
+	c-0.01-0.37,0.14-0.73,0.41-0.99c0.55-0.55,1.44-0.55,1.98,0C127.41,2.67,127.56,3.03,127.55,3.41z M127.14,7.06v10.59h-1.98V7.06
+	H127.14z M132.78,17.65h-1.98V7.06h1.9v1.47h0.08c0.33-0.55,0.81-1,1.38-1.3c0.57-0.33,1.22-0.5,1.88-0.51
+	c0.72-0.02,1.43,0.17,2.05,0.54c0.58,0.35,1.03,0.87,1.29,1.49c0.76-1.29,2.15-2.07,3.64-2.03c1.06-0.07,2.09,0.34,2.82,1.12
+	c0.72,0.91,1.07,2.05,1,3.2v6.61h-1.99v-6.31c0.07-0.75-0.12-1.51-0.54-2.14c-0.47-0.49-1.14-0.74-1.81-0.67
+	c-0.76,0-1.47,0.36-1.92,0.97c-0.52,0.65-0.79,1.46-0.78,2.29v5.85h-1.98v-6.31c0.07-0.75-0.12-1.51-0.54-2.14
+	c-0.47-0.49-1.14-0.74-1.81-0.67c-0.76,0-1.47,0.36-1.92,0.97c-0.52,0.65-0.79,1.46-0.78,2.29V17.65z M154.98,18
+	c-1.45,0.04-2.85-0.54-3.84-1.6c-1.02-1.09-1.56-2.55-1.51-4.04c-0.05-1.48,0.48-2.92,1.47-4.02c0.95-1.07,2.32-1.66,3.75-1.62
+	c1.41-0.07,2.77,0.5,3.73,1.53c1,1.19,1.5,2.71,1.4,4.26l-0.02,0.22h-8.3c-0.01,0.94,0.36,1.85,1.04,2.51
+	c1.32,1.29,3.44,1.26,4.73-0.06c0.25-0.26,0.46-0.56,0.62-0.89l1.77,0.86c-0.45,0.87-1.14,1.6-1.98,2.1
+	C156.97,17.75,155.98,18.02,154.98,18z M151.81,11.08h6.06c-0.04-0.7-0.37-1.36-0.91-1.82c-0.6-0.51-1.37-0.78-2.16-0.74
+	c-0.71-0.01-1.4,0.23-1.94,0.69C152.32,9.71,151.95,10.36,151.81,11.08z M36.98,11.38v6.27H35V2.17h5.26
+	c1.27-0.03,2.49,0.45,3.41,1.34c0.92,0.83,1.44,2.02,1.42,3.27c0.03,1.25-0.49,2.45-1.42,3.29c-0.91,0.88-2.14,1.35-3.41,1.32H36.98
+	z M36.98,4.07v5.41h3.32c0.74,0.02,1.45-0.27,1.96-0.8c1.04-1.01,1.07-2.68,0.06-3.73c-0.02-0.02-0.04-0.04-0.06-0.06
+	c-0.51-0.54-1.22-0.84-1.96-0.82L36.98,4.07z M49.89,17.65H47.9V7.06h1.9v1.73h0.09c0.24-0.6,0.67-1.11,1.23-1.43
+	c0.55-0.38,1.19-0.59,1.85-0.61c0.5-0.01,1,0.07,1.47,0.26l-0.6,1.92c-0.38-0.12-0.77-0.17-1.16-0.15c-0.75,0-1.47,0.33-1.96,0.91
+	c-0.54,0.57-0.83,1.33-0.82,2.12L49.89,17.65z M55.56,12.36c-0.05-1.5,0.5-2.95,1.53-4.04c1.02-1.06,2.43-1.64,3.9-1.6
+	c1.46-0.04,2.87,0.54,3.88,1.6c1.04,1.08,1.6,2.54,1.55,4.04c0.05,1.5-0.51,2.96-1.55,4.04c-1.01,1.06-2.42,1.64-3.88,1.6
+	c-1.47,0.04-2.88-0.54-3.9-1.6C56.06,15.31,55.51,13.85,55.56,12.36z M57.54,12.36c-0.04,1.02,0.31,2.01,0.99,2.77
+	c1.29,1.36,3.43,1.42,4.79,0.13c0.04-0.04,0.09-0.08,0.13-0.13c0.68-0.76,1.04-1.75,0.99-2.77c0.04-1.01-0.31-2-0.99-2.75
+	c-1.25-1.36-3.36-1.45-4.72-0.2c-0.07,0.06-0.13,0.13-0.2,0.2C57.85,10.36,57.5,11.34,57.54,12.36z"/>
+<path fill="#5CB8EC" d="M38.26,34c-1.82,0-3.23-0.96-3.26-2.62h1.89c0.05,0.71,0.52,1.17,1.33,1.17c0.83,0,1.32-0.44,1.32-1.07
+	c0-1.9-4.53-0.76-4.52-3.94c0-1.59,1.28-2.54,3.1-2.54c1.8,0,3.03,0.92,3.15,2.5h-1.94c-0.04-0.58-0.5-1.03-1.26-1.04
+	c-0.69-0.03-1.21,0.31-1.21,1.03c0,1.76,4.51,0.78,4.51,3.88C41.37,32.75,40.26,34,38.26,34z M50.12,34c-2.48,0-4.51-1.86-4.51-4.51
+	c0-2.63,2.03-4.49,4.51-4.49c2.5,0,4.49,1.86,4.49,4.49C54.62,32.14,52.62,34,50.12,34z M50.12,32.43c1.59,0,2.68-1.15,2.68-2.93
+	c0-1.79-1.1-2.91-2.68-2.91c-1.6,0-2.69,1.12-2.69,2.91C47.43,31.28,48.53,32.43,50.12,32.43z M59.08,25.13h5.43v1.42h-3.66v2.25
+	h2.81v1.4h-2.81v3.71h-1.76V25.13z M68.44,25.13h6.44v1.42h-2.34v7.36h-1.76v-7.36h-2.34V25.13z M78.73,25.13h1.89l1.55,6.82
+	l1.79-6.82h1.96l1.69,6.78l1.56-6.78h1.9l-2.45,8.79h-2.08l-1.65-6.26l-1.72,6.26l-2.06,0.01L78.73,25.13z M100.75,32.24h-3.5
+	l-0.58,1.67h-1.85l3.16-8.8h2.05l3.16,8.8h-1.86L100.75,32.24z M99,27.15l-1.27,3.68h2.54L99,27.15z M110.83,25.13
+	c2.12,0,3.17,1.22,3.17,2.69c0,1.07-0.59,2.15-2,2.53l2.1,3.56h-2.04l-1.94-3.42h-0.83v3.42h-1.76v-8.79H110.83z M110.77,26.59
+	h-1.47v2.58h1.47c0.98,0,1.42-0.52,1.42-1.31C112.19,27.08,111.75,26.59,110.77,26.59z M123.85,26.55h-3.34v2.2h2.96v1.4h-2.96v2.33
+	h3.34v1.43h-5.1v-8.8h5.1V26.55z M4,17h3v13H4v4H3v-4H0V17h3v-3h1V17z M13,13h3v11h-3v4h-1v-4H9V13h3V9h1V13z M10,14v9h5v-9H10z
+	 M25,3v15h-3v4h-1v-4h-3V3h3V0h1v3H25z M24,4h-5v13h5V4z"/>
+</svg>
+
+                    </a>
+
+        <ul class="navbar-nav flex-fill flex-row align-items-stretch d-flex">
+            <li class="nav-item flex-grow-1 d-flex"></li>
+            <li class="nav-item d-none d-xl-flex">
+                <a class="nav-link" href="/fr/" aria-label="Accueil"><svg class="icon-home"><use href="/build/images/svg-icons/common.89b27f4d.svg#home"/></svg></a>
+            </li>
+                                                                        <li class="nav-item dropdown app-selector d-none d-xl-flex">
+                <a class="nav-link p-0 text-white" href="/fr/applications"
+                >Nos applications</a>
+                <button type="button" class="btn dropdown-toggle dropdown-toggle-split text-white border-0"
+                        data-bs-toggle="dropdown" aria-label="En savoir plus"
+                        role="button" aria-expanded="false">
+                    <span class="visually-hidden"> </span>
+                </button>
+
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item d-flex align-items-center"
+                       href="/fr/ProRealTime-Complete">
+                        <div class="flex-fill me-4">
+                            <span class="app-label">ProRealTime <span
+                                    class="app-type text-uppercase">Complète</span></span><br/>
+                            <span class="app-desc">à installer sur votre ordinateur</span>
+                        </div>
+                        <div class="img complete float-end m-0"></div>
+                    </a>
+                    <a class="dropdown-item d-flex align-items-center" href="/fr/web"
+                       target="_prt_web">
+                        <div class="flex-fill me-4">
+                            <span class="app-label">ProRealTime <span
+                                    class="app-type text-uppercase">Web</span></span><br/>
+                            <span class="app-desc">à utiliser dans votre navigateur web</span>
+                        </div>
+                        <div class="img web float-end m-0"></div>
+                    </a>
+                    <a class="dropdown-item d-flex align-items-center" href="/fr/ProRealTime-Mobile">
+                        <div class="flex-fill me-4">
+                            <span class="app-label">ProRealTime <span
+                                    class="app-type text-uppercase">Mobile</span></span><br/>
+                            <span class="app-desc">à télécharger sur smartphone ou tablette</span>
+                        </div>
+
+                        <div class="img mobile float-end m-0"></div>
+                    </a>
+                </div>
+            </li>
+            <li class="nav-item d-none d-xl-flex">
+                <a class="nav-link" href="/fr/our-offers">Tarifs</a>
+            </li>
+
+            <li class="nav-item flex-grow-1 d-none d-xl-flex"></li>
+
+                        
+                            <li class="nav-item d-none d-md-flex">
+                    <button type="button" class="btn btn-dark-5" data-action="modal-manager#open"
+                            data-modal-url="/fr/ajax/login-modal?redirect=https://www.prorealtime.com/fr/nouveautes-de-ProRealTime-v10-3"
+                    >Se connecter</button>
+
+                                                                                    <a href="/fr/inscription" class="btn btn-light-1 me-0">Accès Gratuit</a>
+                </li>
+                    </ul>
+
+        <button class="navbar-toggler align-self-stretch" type="button" data-bs-toggle="offcanvas"
+                data-bs-target="#sideNavbar" aria-label="Menu"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </nav>
+</header>
+
+<div class="offcanvas offcanvas-end" id="sideNavbar" tabindex="-1" aria-hidden="true">
+    <div class="h-100 d-flex flex-column">
+        <div class="offcanvas-header border-0">
+            <a class="navbar-logo text-decoration-none" href="/fr/">
+                                    <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="160px" height="34px" viewBox="0 0 160 34" enable-background="new 0 0 160 34" xml:space="preserve">
+<path fill="#03111A" d="M71.63,4.08v5.45h3.19c0.76,0.02,1.49-0.26,2.05-0.78c0.55-0.5,0.85-1.22,0.84-1.97
+	c0-0.71-0.28-1.39-0.8-1.88c-0.51-0.54-1.22-0.84-1.96-0.82L71.63,4.08z M71.63,17.65h-1.98V2.17h5.26
+	c1.27-0.03,2.49,0.45,3.41,1.34c0.93,0.83,1.45,2.02,1.42,3.27c0.01,1.05-0.37,2.06-1.06,2.85c-0.67,0.81-1.6,1.37-2.63,1.58
+	l-0.04,0.06l4.33,6.29v0.08h-2.35l-4.16-6.27h-2.2V17.65z M87.38,18c-1.45,0.04-2.85-0.54-3.84-1.6c-1.02-1.09-1.56-2.55-1.51-4.04
+	c-0.05-1.48,0.48-2.92,1.47-4.02c0.95-1.07,2.32-1.66,3.75-1.62c1.41-0.07,2.77,0.5,3.73,1.53c1,1.19,1.5,2.71,1.4,4.26l-0.02,0.22
+	h-8.3c-0.01,0.94,0.36,1.85,1.03,2.51c1.32,1.29,3.44,1.26,4.73-0.06c0.25-0.26,0.46-0.56,0.62-0.89l1.77,0.86
+	c-0.45,0.87-1.14,1.6-1.98,2.1C89.36,17.75,88.38,18.01,87.38,18z M84.21,11.08h6.06c-0.04-0.7-0.37-1.36-0.91-1.82
+	c-0.6-0.51-1.37-0.78-2.16-0.74c-0.71-0.01-1.4,0.23-1.94,0.69C84.72,9.71,84.34,10.36,84.21,11.08z M96.82,14.41
+	c0,0.51,0.24,0.99,0.65,1.3c0.44,0.34,0.99,0.53,1.55,0.51c0.83,0,1.63-0.33,2.22-0.93c0.63-0.55,0.99-1.35,0.99-2.18
+	c-0.75-0.53-1.67-0.79-2.59-0.74c-0.72-0.03-1.43,0.18-2.03,0.58C97.12,13.28,96.82,13.82,96.82,14.41z M99.39,6.71
+	c1.27-0.07,2.51,0.36,3.47,1.19c0.87,0.84,1.34,2.01,1.27,3.22v6.52h-1.9v-1.47h-0.09c-0.7,1.14-1.94,1.83-3.28,1.82
+	c-1.07,0.03-2.12-0.34-2.93-1.04c-0.76-0.65-1.18-1.6-1.16-2.59c-0.03-1.02,0.42-1.99,1.23-2.62c0.96-0.69,2.13-1.03,3.31-0.97
+	c1.01-0.04,2.01,0.18,2.91,0.65v-0.45c0.01-0.68-0.3-1.32-0.82-1.75c-0.52-0.48-1.2-0.74-1.91-0.74c-1.06-0.02-2.06,0.51-2.63,1.41
+	l-1.75-1.1C96.08,7.4,97.7,6.62,99.39,6.71L99.39,6.71z M109.43,2.17v15.47h-1.98V2.17H109.43z M118.53,4.08v13.57h-1.98V4.08h-4.31
+	v-1.9h10.61v1.9H118.53z M127.55,3.41c0.01,0.37-0.14,0.73-0.41,0.99c-0.55,0.55-1.44,0.55-1.98,0c-0.27-0.26-0.42-0.62-0.41-0.99
+	c-0.01-0.37,0.14-0.73,0.41-0.99c0.55-0.55,1.44-0.55,1.98,0C127.41,2.67,127.56,3.03,127.55,3.41z M127.14,7.06v10.59h-1.98V7.06
+	H127.14z M132.78,17.65h-1.98V7.06h1.9v1.47h0.08c0.33-0.55,0.81-1,1.38-1.3c0.57-0.33,1.22-0.5,1.88-0.51
+	c0.72-0.02,1.43,0.17,2.05,0.54c0.58,0.35,1.03,0.87,1.29,1.49c0.76-1.29,2.15-2.07,3.64-2.03c1.06-0.07,2.09,0.34,2.82,1.12
+	c0.72,0.91,1.07,2.05,1,3.2v6.61h-1.99v-6.31c0.07-0.75-0.12-1.51-0.54-2.14c-0.47-0.49-1.14-0.74-1.81-0.67
+	c-0.76,0-1.47,0.36-1.92,0.97c-0.52,0.65-0.79,1.46-0.78,2.29v5.85h-1.98v-6.31c0.07-0.75-0.12-1.51-0.54-2.14
+	c-0.47-0.49-1.14-0.74-1.81-0.67c-0.76,0-1.47,0.36-1.92,0.97c-0.52,0.65-0.79,1.46-0.78,2.29V17.65z M154.98,18
+	c-1.45,0.04-2.85-0.54-3.84-1.6c-1.02-1.09-1.56-2.55-1.51-4.04c-0.05-1.48,0.48-2.92,1.47-4.02c0.95-1.07,2.32-1.66,3.75-1.62
+	c1.41-0.07,2.77,0.5,3.73,1.53c1,1.19,1.5,2.71,1.4,4.26l-0.02,0.22h-8.3c-0.01,0.94,0.36,1.85,1.04,2.51
+	c1.32,1.29,3.44,1.26,4.73-0.06c0.25-0.26,0.46-0.56,0.62-0.89l1.77,0.86c-0.45,0.87-1.14,1.6-1.98,2.1
+	C156.97,17.75,155.98,18.02,154.98,18z M151.81,11.08h6.06c-0.04-0.7-0.37-1.36-0.91-1.82c-0.6-0.51-1.37-0.78-2.16-0.74
+	c-0.71-0.01-1.4,0.23-1.94,0.69C152.32,9.71,151.95,10.36,151.81,11.08z M36.98,11.38v6.27H35V2.17h5.26
+	c1.27-0.03,2.49,0.45,3.41,1.34c0.92,0.83,1.44,2.02,1.42,3.27c0.03,1.25-0.49,2.45-1.42,3.29c-0.91,0.88-2.14,1.35-3.41,1.32H36.98
+	z M36.98,4.07v5.41h3.32c0.74,0.02,1.45-0.27,1.96-0.8c1.04-1.01,1.07-2.68,0.06-3.73c-0.02-0.02-0.04-0.04-0.06-0.06
+	c-0.51-0.54-1.22-0.84-1.96-0.82L36.98,4.07z M49.89,17.65H47.9V7.06h1.9v1.73h0.09c0.24-0.6,0.67-1.11,1.23-1.43
+	c0.55-0.38,1.19-0.59,1.85-0.61c0.5-0.01,1,0.07,1.47,0.26l-0.6,1.92c-0.38-0.12-0.77-0.17-1.16-0.15c-0.75,0-1.47,0.33-1.96,0.91
+	c-0.54,0.57-0.83,1.33-0.82,2.12L49.89,17.65z M55.56,12.36c-0.05-1.5,0.5-2.95,1.53-4.04c1.02-1.06,2.43-1.64,3.9-1.6
+	c1.46-0.04,2.87,0.54,3.88,1.6c1.04,1.08,1.6,2.54,1.55,4.04c0.05,1.5-0.51,2.96-1.55,4.04c-1.01,1.06-2.42,1.64-3.88,1.6
+	c-1.47,0.04-2.88-0.54-3.9-1.6C56.06,15.31,55.51,13.85,55.56,12.36z M57.54,12.36c-0.04,1.02,0.31,2.01,0.99,2.77
+	c1.29,1.36,3.43,1.42,4.79,0.13c0.04-0.04,0.09-0.08,0.13-0.13c0.68-0.76,1.04-1.75,0.99-2.77c0.04-1.01-0.31-2-0.99-2.75
+	c-1.25-1.36-3.36-1.45-4.72-0.2c-0.07,0.06-0.13,0.13-0.2,0.2C57.85,10.36,57.5,11.34,57.54,12.36z"/>
+<path fill="#5CB8EC" d="M38.26,34c-1.82,0-3.23-0.96-3.26-2.62h1.89c0.05,0.71,0.52,1.17,1.33,1.17c0.83,0,1.32-0.44,1.32-1.07
+	c0-1.9-4.53-0.76-4.52-3.94c0-1.59,1.28-2.54,3.1-2.54c1.8,0,3.03,0.92,3.15,2.5h-1.94c-0.04-0.58-0.5-1.03-1.26-1.04
+	c-0.69-0.03-1.21,0.31-1.21,1.03c0,1.76,4.51,0.78,4.51,3.88C41.37,32.75,40.26,34,38.26,34z M50.12,34c-2.48,0-4.51-1.86-4.51-4.51
+	c0-2.63,2.03-4.49,4.51-4.49c2.5,0,4.49,1.86,4.49,4.49C54.62,32.14,52.62,34,50.12,34z M50.12,32.43c1.59,0,2.68-1.15,2.68-2.93
+	c0-1.79-1.1-2.91-2.68-2.91c-1.6,0-2.69,1.12-2.69,2.91C47.43,31.28,48.53,32.43,50.12,32.43z M59.08,25.13h5.43v1.42h-3.66v2.25
+	h2.81v1.4h-2.81v3.71h-1.76V25.13z M68.44,25.13h6.44v1.42h-2.34v7.36h-1.76v-7.36h-2.34V25.13z M78.73,25.13h1.89l1.55,6.82
+	l1.79-6.82h1.96l1.69,6.78l1.56-6.78h1.9l-2.45,8.79h-2.08l-1.65-6.26l-1.72,6.26l-2.06,0.01L78.73,25.13z M100.75,32.24h-3.5
+	l-0.58,1.67h-1.85l3.16-8.8h2.05l3.16,8.8h-1.86L100.75,32.24z M99,27.15l-1.27,3.68h2.54L99,27.15z M110.83,25.13
+	c2.12,0,3.17,1.22,3.17,2.69c0,1.07-0.59,2.15-2,2.53l2.1,3.56h-2.04l-1.94-3.42h-0.83v3.42h-1.76v-8.79H110.83z M110.77,26.59
+	h-1.47v2.58h1.47c0.98,0,1.42-0.52,1.42-1.31C112.19,27.08,111.75,26.59,110.77,26.59z M123.85,26.55h-3.34v2.2h2.96v1.4h-2.96v2.33
+	h3.34v1.43h-5.1v-8.8h5.1V26.55z M4,17h3v13H4v4H3v-4H0V17h3v-3h1V17z M13,13h3v11h-3v4h-1v-4H9V13h3V9h1V13z M10,14v9h5v-9H10z
+	 M25,3v15h-3v4h-1v-4h-3V3h3V0h1v3H25z M24,4h-5v13h5V4z"/>
+</svg>
+
+                            </a>
+            <button type="button" class="btn-close align-self-start" data-bs-dismiss="offcanvas"></button>
+        </div>
+        <div class="offcanvas-body flex-grow-1">
+            <nav class="navbar h-100">
+                <ul class="navbar-nav flex-fill h-100 gap-4">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/fr/">Accueil</a>
+                    </li>
+                                                                                                                        <li class="nav-item dropdown app-selector text-center d-block">
+                        <a class="btn nav-link p-0 w-auto d-inline-block" style="min-height:1rem"
+                           href="/fr/applications"
+                        >Nos applications</a>
+                        <button type="button"
+                                class="btn dropdown-toggle dropdown-toggle-split border-0 p-0 d-inline-block m-0"
+                                data-bs-toggle="dropdown" style="min-height:1rem"
+                                aria-label="En savoir plus"
+                                role="button" aria-expanded="false">
+                            <span class="visually-hidden"> </span>
+                        </button>
+
+                        <div class="dropdown-menu position-static" aria-labelledby="navbarDropdown ">
+                            <a class="dropdown-item d-flex align-items-center"
+                               href="/fr/ProRealTime-Complete"
+                            >
+                                <div class="flex-fill me-4">
+                                        <span class="app-label">ProRealTime <span
+                                                class="app-type">COMPLETE</span></span>
+                                    <br/>
+                                    <span class="app-desc">à installer sur votre ordinateur</span>
+                                </div>
+                                <div class="img complete float-end m-0"></div>
+                            </a>
+                            <a class="dropdown-item d-flex align-items-center" href="/fr/web"
+                               target="_prt_web">
+                                <div class="flex-fill me-4">
+                                    <span class="app-label">ProRealTime <span class="app-type">Web</span></span>
+                                    <br/>
+                                    <span class="app-desc">à utiliser dans votre navigateur web</span>
+                                </div>
+                                <div class="img web float-end m-0"></div>
+                            </a>
+                            <a class="dropdown-item d-flex align-items-center"
+                               href="/fr/ProRealTime-Mobile">
+                                <div class="flex-fill me-4">
+                                        <span class="app-label">ProRealTime <span
+                                                class="app-type">MOBILE</span></span><br/>
+                                    <span class="app-desc">à télécharger sur smartphone ou tablette</span>
+                                </div>
+
+                                <div class="img mobile float-end m-0"></div>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/fr/tarifs">Tarifs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/fr/help">Aide &amp; Support</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/fr/careers" target="_blank">Carrières</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/fr/contact">Contactez-nous</a>
+                    </li>
+
+                    <li class="nav-item flex-grow-1"></li>
+
+                                            <li class="nav-item d-md-none ">
+                            <button type="button" class="btn btn-light-2 flex-1" data-action="modal-manager#open"
+                                    data-modal-url="/fr/ajax/login-modal?redirect=https://www.prorealtime.com/fr/nouveautes-de-ProRealTime-v10-3"
+                            >Se connecter</button>
+
+                                                                                                                    <a href="/fr/inscription" class="btn btn-light-1 flex-1">Accès Gratuit</a>
+                        </li>
+                                    </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+<div class="offcanvas offcanvas-end" id="sideNavbarMyAccount"
+     tabindex="-1" aria-hidden="true" data-controller="carousel"
+>
+    <div class="h-100 d-flex flex-column">
+        <div class="offcanvas-header border-0">
+            <div id="carouselMASM2" class="carousel slide w-100" data-carousel-target="syncedCarousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <p class="h1 fw-semi-bold mt-3 mb-0">Mon compte</p>
+                    </div>
+                    <div class="carousel-item position-relative">
+                        <a class="fs-11 fw-normal position-absolute" href="#"
+                           data-bs-target="#carouselMASM" data-bs-slide="prev"
+                        >
+                            <i class="fa fa-chevron-left me-2"></i>Retour à Mon compte</a>
+                        <p class="h1 fw-semi-bold mt-3 mb-0">Mon profil</p>
+                    </div>
+                </div>
+            </div>
+            <button type="button" class="btn-close align-self-start" data-bs-dismiss="offcanvas"></button>
+        </div>
+        <turbo-frame class="offcanvas-body flex-grow-1" id="my-account-sidebar-menu"
+                     src="/fr/menu/my-account/sidebar" loading="lazy"
+        >
+                
+<div class="d-flex justify-content-center py-3 ">
+    <div class="spinner-border spinner-border-sm text-secondary" role="status">
+        <span class="visually-hidden">Loading...</span>
+    </div>
+</div>
+
+        </turbo-frame>
+    </div>
+</div>
+
+        
+        <div class="flex-fill bg-white">
+                <section id="HeroHeaderBackground">
+    <div class="container-lg btn-area">
+        <div class="d-flex align-items-center justify-content-end">
+            <span class="fw-semi-bold mx-3">Version :</span>
+            <div class="btn-group">
+                <button type="button" class="my-1 mx-1 btn btn-dropdown-1 bg-light dropdown-toggle"
+                        data-bs-toggle="dropdown" aria-expanded="false" style="background: #fff">
+                    10.3
+                </button>
+                <ul class="dropdown-menu dropdown-menu-1 dropdown-menu-end">
+                    <li><a class="dropdown-item" href="/fr/nouveautes-de-ProRealTime-v12">12</a></li>
+                    <li><a class="dropdown-item" href="/fr/nouveautes-de-ProRealTime-v11-1">11.1</a></li>
+                    <li><a class="dropdown-item" href="/fr/nouveautes-de-ProRealTime-v10-3">10.3</a></li>
+                    <li><a class="dropdown-item" href="/fr/nouveautes-de-ProRealTime-v10-2">10.2</a></li>
+                    <li><a class="dropdown-item" href="/fr/nouveautes-de-ProRealTime-v10-1">10.1</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="content container-lg">
+        <h1 class="intro-title text-blue-jeans">ProRealTime v10.3 - Nouveautés</h1>
+        <div class="hero-header-logo">
+            <div class="bloc-version">
+                <span class="new"></span>
+                <span class="version">version</span>
+            </div>
+                            <div class="ico-version software"><?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg fill="currentColor" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="29px" height="29px" viewBox="0 0 29 29" enable-background="new 0 0 29 29" xml:space="preserve">
+<path d="M14.5,14.26L7.37,0h14.26L14.5,14.26z M14.5,29H29V0h0L14.5,29z M0,0v29h14.5L0,0L0,0z"/>
+</svg>
+</div>
+                        <div class="number-version"><?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg fill="currentColor" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="155px" height="63px" viewBox="0 0 155 63" enable-background="new 0 0 155 63" xml:space="preserve">
+<path d="M27.71,63H15.94V22.44l-9.25,6.4L0,19.16L27.71,0V63z M97.31,51.33c-3.22,0-5.83,2.61-5.83,5.83c0,3.22,2.61,5.83,5.83,5.83
+	s5.83-2.61,5.83-5.83C103.14,53.95,100.53,51.33,97.31,51.33z M62.5,0C47.31,0,35,14.1,35,31.5S47.31,63,62.5,63S90,48.9,90,31.5
+	S77.69,0,62.5,0z M62.5,51.33c-8.73,0-15.83-8.9-15.83-19.83s7.1-19.83,15.83-19.83c8.73,0,15.83,8.9,15.83,19.83
+	S71.23,51.33,62.5,51.33z M141,23.63L153,0h-42v11.67h24.41l-11.17,22H132c6.14,0,11.33,4.05,11.33,8.83s-5.19,8.83-11.33,8.83
+	c-5.65,0-10.05-3.56-10.79-7.83h-11.98C109.84,54.33,119.7,63,132,63c12.7,0,23-9.18,23-20.5C155,34.03,149.23,26.75,141,23.63z"/>
+</svg>
+</div>
+        </div>
+            </div>
+</section>
+
+        <nav id="featuresNav" class="navbar navbar-expand-lg bg-light text-center">
+    <button class="navbar-toggler mx-auto" type="button" data-bs-toggle="modal"
+            data-bs-target="#featuresModal" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"><i class="features-icon"></i></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="features-menu navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-0">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_complete_10_1/shortcuts/icon_9.edc36099.png">
+                                                <div class="feature-menu-label">Improved order placement</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-1">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-16.7c810ca2.png">
+                                                <div class="feature-menu-label">Automatic quantity orders</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-2">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-17.d164cf36.png">
+                                                <div class="feature-menu-label">ProCommunity Analysis</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-3">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_2/menu/icon-10.9c259b34.png">
+                                                <div class="feature-menu-label">Improved performance</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-4">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_complete_10_1/shortcuts/icon_14.aa50e9d0.png">
+                                                <div class="feature-menu-label">Ichimoku improvements</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-5">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-11.8579bcd7.png">
+                                                <div class="feature-menu-label">Detailed report on your trading</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-6">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-13.41a58989.png">
+                                                <div class="feature-menu-label">Order book</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-7">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-6.541c67bb.png">
+                                                <div class="feature-menu-label">Trading interface</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-8">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-8.ff7bd798.png">
+                                                <div class="feature-menu-label">Shortcuts</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-9">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-2.d5d519b5.png">
+                                                <div class="feature-menu-label">Multi-instrument ticker</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-10">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-3.50e1c26a.png">
+                                                <div class="feature-menu-label">Objects</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-11">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-4.f1f44a5d.png">
+                                                <div class="feature-menu-label">Indicators</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-12">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-14.c5a6e281.png">
+                                                <div class="feature-menu-label">Lists</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-13">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-1.c852ba2d.png">
+                                                <div class="feature-menu-label">Alerts</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-14">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-5.3b37b43f.png">
+                                                <div class="feature-menu-label">Saving system</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-15">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-9.ad80ab2f.png">
+                                                <div class="feature-menu-label">Backtesting and detailed report</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-16">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-10.524c3373.png">
+                                                <div class="feature-menu-label">Easier strategy creation and modification</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-17">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-12.4d832eb1.png">
+                                                <div class="feature-menu-label">Code editor</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-18">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-7.1754f28f.png">
+                                                <div class="feature-menu-label">Option chain and scenario tool</div>
+                    </a>
+                </li>
+                            <li class="nav-item">
+                    <a class="feature-menu-item" href="#S-103-19">
+                                                                            <img class="img-fluid mx-auto d-block lazy" loading="lazy"  alt=""
+                                 src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-15.3f80c7ac.png">
+                                                <div class="feature-menu-label">Other improvements</div>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+</nav>
+
+<div id="featuresModal" class="modal" tabindex="-1" data-bs-backdrop="static" aria-hidden="false" data-controller="features">
+    <div class="modal-dialog modal-fullscreen  modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title fw-semi-bold">Nouveautés</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fermer"></button>
+            </div>
+            <div class="modal-body">
+                <ul class="features-menu navbar-nav me-auto mb-2 mb-lg-0">
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-0">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_complete_10_1/shortcuts/icon_9.edc36099.png">
+                                                        <div class="feature-menu-label">Improved order placement</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-1">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-16.7c810ca2.png">
+                                                        <div class="feature-menu-label">Automatic quantity orders</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-2">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-17.d164cf36.png">
+                                                        <div class="feature-menu-label">ProCommunity Analysis</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-3">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_2/menu/icon-10.9c259b34.png">
+                                                        <div class="feature-menu-label">Improved performance</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-4">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_complete_10_1/shortcuts/icon_14.aa50e9d0.png">
+                                                        <div class="feature-menu-label">Ichimoku improvements</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-5">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-11.8579bcd7.png">
+                                                        <div class="feature-menu-label">Detailed report on your trading</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-6">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-13.41a58989.png">
+                                                        <div class="feature-menu-label">Order book</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-7">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-6.541c67bb.png">
+                                                        <div class="feature-menu-label">Trading interface</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-8">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-8.ff7bd798.png">
+                                                        <div class="feature-menu-label">Shortcuts</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-9">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-2.d5d519b5.png">
+                                                        <div class="feature-menu-label">Multi-instrument ticker</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-10">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-3.50e1c26a.png">
+                                                        <div class="feature-menu-label">Objects</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-11">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-4.f1f44a5d.png">
+                                                        <div class="feature-menu-label">Indicators</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-12">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-14.c5a6e281.png">
+                                                        <div class="feature-menu-label">Lists</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-13">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-1.c852ba2d.png">
+                                                        <div class="feature-menu-label">Alerts</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-14">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-5.3b37b43f.png">
+                                                        <div class="feature-menu-label">Saving system</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-15">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-9.ad80ab2f.png">
+                                                        <div class="feature-menu-label">Backtesting and detailed report</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-16">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-10.524c3373.png">
+                                                        <div class="feature-menu-label">Easier strategy creation and modification</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-17">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-12.4d832eb1.png">
+                                                        <div class="feature-menu-label">Code editor</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-18">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-7.1754f28f.png">
+                                                        <div class="feature-menu-label">Option chain and scenario tool</div>
+                        </a>
+                    </li>
+                                    <li class="nav-item">
+                        <a class="feature-menu-item" href="#S-103-19">
+                                                                                        <img class="mb-0 mt-0" loading="lazy"
+                                     src="/build/images/features/features_10_3/menu/icon-15.3f80c7ac.png">
+                                                        <div class="feature-menu-label">Other improvements</div>
+                        </a>
+                    </li>
+                                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="content" class="content-v10-3" data-controller="lazy-loading">
+        <section id="S-103-0" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_complete_10_1/shortcuts/icon_9.edc36099.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Placement et modification d'ordres</h2>
+                    </div>
+                </div>
+                <h3 class="fw-semi-bold">Placez des OCO à partir des positions ouvertes</h3>
+                <p>Pour ajouter un OCO (Stop de protection et Objectifs liés entre eux) à vos positions déjà ouvertes, placez votre souris au dessus de l'étiquette de position et sélectionnez "Ajouter Limite &amp; Stop (OCO)".<br>Notez qu'il reste également possible de joindre un OCO à votre ordre d'entrée en position avant de le placer (cases "S" et "O" à droite de la barre d'ordres).</p>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-49.d2114c9f.png">
+                </div>
+                <h3 class="fw-semi-bold">Modification des ordres</h3>
+                <p>Modifiez vos ordres en cliquant directement sur l'étiquette de l'ordre sur le graphique.</p>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <p class="text-center">MODIFICATION DU GAIN OU DE LA PERTE (STOPS &amp; LIMITES)
+                            </p> <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-50.9ca8de16.png">
+                    </div>
+                    <div class="col-lg-4">
+                        <p class="text-center">MODIFICATION DU PRIX</p><img class="img-fluid mx-auto d-block lazy"
+                                                                             loading="lazy" alt=""
+                                                                             src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-51.d3be7950.png">
+                    </div>
+                    <div class="col-lg-4">
+                        <p class="text-center">MODIFICATION DE LA QUANTITÉ</p> <img
+                                class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                                src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-52.4dec6683.png">
+                    </div>
+                </div>
+                <h3 class="fw-semi-bold">Sélection de la quantité</h3>
+                <ul class="list-circle">
+                    <li><b>Forex :</b> vous pouvez désormais sélectionner la quantité en taille de lot ou en taille de Pip souhaitée. Les deux éléments sont dynamiques afin de vous indiquer à quelle taille de lot correspond la taille de Pip choisie et vice-versa. <br>Une conversion à la volée de la taille de Pip vous indique sa valeur dans la devise de base de votre portefeuille.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-53.1dfd1b60.png">
+                </div>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-54.e49178e9.png">
+                </div>
+                <div class="notice-box-wrapper">
+                    <div class="notice-box">
+                        <p><b>Exemples :</b></p>
+                        <p>Si je choisis pour l'EUR/USD 1 Pip = 4 USD, alors le logiciel ajustera automatiquement la taille de lot à 40 x1 K (soit 40 000).</p>
+                        <p>Si je choisis pour l'EUR/JPY une taille de lot de 90 x 1 K, alors le logiciel ajustera automatiquement la taille de Pip à 1 Pip = 900 JPY.</p>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li><b>Action :</b> choisissez la quantité de votre ordre soit en nombre d'actions, soit directement en montant.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-55.d7be57a2.png">
+                </div>
+                <div class="notice-box-wrapper">
+                    <div class="notice-box">
+                        <p><b>Exemples :</b></p>
+                        <p>Pour acheter l'action Danone, je peux définir un ordre d'un montant de 10 000 EUR et le logiciel déterminera automatiquement la quantité d'actions correspondante.</p>
+                    </div>
+                </div>
+                <p>Notez que le montant saisi peut ne pas correspondre à un nombre d'actions entier. Dans ce cas, une option vous permet de choisir quelles règles d'arrondi appliquer pour ajuster la quantité de votre ordre :</p>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-56.a097a40c.png">
+                </div>
+                <p></p>
+                <h3 class="fw-semi-bold">Nouvelles possibilités pour le réglage de vos Stops &amp; Objectifs</h3>
+                <ul class="list-circle">
+                    <li><b>Pour les Actions</b>, définissez la distance de vos stops et objectifs soit : en montant par position, en montant par action, en pourcentage (%), ou en les plaçant manuellement sur le niveau de prix de votre choix.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-57.b6b211ae.png">
+                </div>
+                <ul class="list-circle">
+                    <li><b>Pour le Forex</b>, définissez la distance de vos stops et objectifs soit : en montant par position, en Pips, ou en les plaçant manuellement sur le niveau de prix de votre choix.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-58.8c9ac134.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-1" class="bg-ghost-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-16.7c810ca2.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Ordres à quantité automatique</h2>
+                    </div>
+                </div>
+                <p>Ce nouveau type d'ordre détermine la quantité de votre ordre sur la base de votre niveau d'entrée et de la distance de votre Stop ou Objectif.</p>
+                <p><b>Exemple :</b></p>
+                <ul class="list-circle">
+                    <li>Via une analyse, j'ai identifié un niveau d'entrée, un niveau d'Objectif, et un niveau de Stop représentés sur le graphique ci-dessous.
+                    </li>
+                    <li>Je ne souhaite pas risquer plus de 100 € sur ce trade.</li>
+                    <li>Le logiciel va déterminer pour moi la quantité de mon ordre sur la base de ces niveaux et de ma perte approximative de 100 €.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-59.3067825c.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Dans les réglages de l'ordre, je choisit "Perte", et j'indique le montant de 100 €. Je coche également la case "Objectif".</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-60.3899ec87.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Pour placer l'ordre, je clique sur l’icône "Qté Auto", puis je place le niveau d'entrée via un premier clic sur le graphique, puis le stop et enfin l'objectif. <br>Dans notre exemple, une quantité de 109 actions est automatiquement choisie pour que mon stop de protection corresponde à un montant qui soit le plus proche possible des 100 €.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-61.032522a4.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Les ordres à quantité automatique peuvent être activés depuis l'interface d'accès rapide :</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-62.8e18ac9c.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-2" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-17.d164cf36.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">ProCommunity Analyses</h2>
+                    </div>
+                </div>
+                <h3 class="fw-semi-bold">Accédez aux analyses de CentralCharts et Andlil sur une large variété d'instruments</h3>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/procommunity/procommunity-analysis-1.337b20f7.png">
+                </div>
+                <h3 class="fw-semi-bold">Vérifiez la qualité des analyses sur CentralCharts.com</h3>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/procommunity/procommunity-analysis-2.0a76de18.png">
+                </div>
+                <h3 class="fw-semi-bold">Recevez une notification sur vos graphiques dès qu'une nouvelle analyse est disponible</h3>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/procommunity/procommunity-analysis-3.6763db61.png">
+                </div>
+                <h3 class="fw-semi-bold">Trouvez facilement les analyses qui vous intéressent en les filtrant <br>par marché, instrument, auteur, unité de temps, ou mot clé.</h3>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/procommunity/procommunity-analysis-4.f736eae1.png">
+                </div>
+                <h3 class="fw-semi-bold">Profitez d'une forte visibilité pour vos propres analyses en les diffusant simultanément<br> sur ProRealTime, sur CentralCharts, et sur les réseaux sociaux.</h3>
+                <ul class="list-circle">
+                    <li>Utilisez ce bouton pour partager vos analyses avec plus de 500 000 utilisateurs de ProRealTime et membres de CentralCharts.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/procommunity/procommunity-analysis-5.a889c7fc.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Liez votre profil CentralCharts à votre compte X (Twitter) pour partager automatiquement vos analyses sur ProRealTime et sur X (Twitter) !
+                    </li>
+                </ul>
+                <div class="notice-box-wrapper">
+                    <div class="notice-box text-center">
+                        <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                             src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/procommunity/procommunity-analysis-6.519264e4.png">
+                    </div>
+                </div>
+                <h3 class="fw-semi-bold">Comment accéder à ProCommunity Analyses ?</h3>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/procommunity/procommunity-analysis-7.50b53802.png">
+                </div>
+                <p>Fournisseurs du contenu ProCommunity Analyses :</p>
+                <ul class="list-circle">
+                    <li><a href="https://www.centralcharts.com/" target="_blank" rel="noopener">CentralCharts.com</a> est un réseau social de trading et un site d'information sur les marchés financiers. Les analyses postées sur CentralCharts peuvent être vues dans la plateforme ProRealTime, et vous pouvez également partager vos propres analyses.
+                    </li>
+                    <li><a href="https://www.andlil.com/" target="_blank" rel="noopener">Andlil.com</a> est le site Internet de Benoist Rousseau, trader pour compte propre spécialisé dans le scalping. Ses articles et vidéos résument sa semaine de trading.
+                    </li>
+                </ul>
+                <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                     src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/procommunity/logo-centralcharts.4dbff332.png">
+                <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                     src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/procommunity/logo-andlil.75c3dc34.png">
+                <p>Consultez les conditions d'utilisation de ProCommunity Analyses dans la plateforme ProRealTime.<br>Les informations contenues dans le module ProCommunity Analyses sont publiées par des utilisateurs de CentralCharts.com et Andlil.com. ProRealTime ne se porte pas garant du contenu de ces analyses ni des sites qui les hébergent qui sont gérés par des entreprises externes à ProRealTime et régis par leurs propres conditions d’utilisation.</p>
+            </div>
+        </section>
+        <section id="S-103-3" class="bg-alice-blue">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_2/menu/icon-10.9c259b34.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Performances améliorées</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Des améliorations majeures apportées à la gestion des flux de données nous permettent d'être encore plus rapide qu'avant et de réduire au minimum la latence lorsque les marchés sont volatiles. Vérifiez et comparez !
+                    </li>
+                    <li>Des améliorations coté plateforme permettent d'accélérer l'affichage du prix et des indicateurs sur vos graphiques.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_2/popup-features-10-2-17.6d6bd3e0.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-4" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_complete_10_1/shortcuts/icon_14.aa50e9d0.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Amélioration de l'Ichimoku</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Vous pouvez désormais personnaliser l'unité de temps de l'indicateur Ichimoku pour qu'elle soit différente de l'unité de temps du graphique.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-63.02b77cd1.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Il est également possible d'ajouter plusieurs Ichimokus d'unités de temps différentes sur un même graphique.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-64.6113444f.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-5" class="bg-ghost-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-11.8579bcd7.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Rapports détaillés sur votre trading</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Vous pouvez maintenant générer un rapport détaille et des statistiques sur votre activité de trading réel (manuel et automatique).
+                    </li>
+                    <li>Les rapports peuvent aussi être générés sur la base de votre activité en PaperTrading.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-43.d8c3ad47.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Pour générer ce rapport, ouvrez la fenêtre Portefeuilles et cliquez sur l’icône "Rapport" montrée dans l'image ci-dessous.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-44.2477f02e.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Les rapports peuvent être générés globalement sur votre portefeuille ou pour un instrument spécifique.<br>Dans le cas d'un instrument, votre courbe des gains et pertes et votre historique de transactions seront  également représentés dans une fenêtre graphique.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-45.9154c608.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-6" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-13.41a58989.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Carnet d'ordres de scalping</h2>
+                    </div>
+                </div>
+                <p>Un nouveau "mode scalping" a été ajouté au carnet d'ordres. Dans ce mode, le carnet d'ordres est composé de larges boutons et associé à des raccourcis clavier pour faciliter votre trading.</p>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-37.5cdd380b.png">
+                </div>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-38.e9fedf27.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Ce mode, comme tous les modes d'affichage du carnet d'ordres, permet de nombreuses personnalisations.
+                    </li>
+                    <li>Pour cela, cliquez sur l’icône en forme de clé anglaise pour modifier les paramètres et sur l’icône en forme de clavier dans la barre de titre pour modifier les raccourcis.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-39.47d117b0.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-7" class="bg-alice-blue">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-6.541c67bb.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Interface de trading</h2>
+                    </div>
+                </div>
+                <p>L'interface d'accès rapide a été améliorée pour y ajouter de nouveaux types d'ordres :</p>
+                <ul class="list-circle">
+                    <li>Stop à plage de déclenchement (aussi appelé "Stop avec limite de protection")</li>
+                    <li>L'un annule l'autre (OCO)</li>
+                    <li>Au marché si touché</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-15.806962a6.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Vous pouvez désormais lier un objectif et stop à tous les types d'ordres affichés dans la partie gauche de la fenêtre ci-dessous, soit : Limite horizontale, Stop horizontal, Stop suiveur, Plage de déclenchement, Au marché.
+                    </li>
+                    <li>Les Stops liés peuvent être au choix des Stops classiques, des Stops à plage de déclenchement, ou des Stops suiveurs.</li>
+                    <li>De nombreux raccourcis clavier sont désormais paramétrables pour le trading.</li>
+                </ul>
+                <h3 class="fw-semi-bold">Affichage des informations de Trading sur les graphiques (réglage via le menu "Options Trading")</h3>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-46.3c452e24.png">
+                </div>
+                <h3 class="fw-semi-bold">Autres améliorations liées au Trading :</h3>
+                <ul class="list-circle">
+                    <li>La hauteur des étiquettes d'ordres a été réduite pour laisser le graphique plus visible.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-17.f9e0ef78.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Des statistiques et un rapport détaillé sur votre trading sont accessibles depuis la fenêtre portefeuille.
+                    </li>
+                    <li>Les couleurs Achat/Vente peuvent désormais être modifiées pour toute l'application (vert/rouge ou bleu/rouge). Ce réglage est disponible depuis le menu "Options de l'espace de travail" &gt; "Couleurs".
+                    </li>
+                    <li>Les positions fermées apparaissent grisées dans la fenêtre portefeuille pour mieux les différencier les positions ouvertes.</li>
+                    <li>Les ordres au marché qui n'ont pas encore été confirmés ou exécutés sont désormais représentés grisés sur le graphique. Ceci permettra notamment d'annuler plus facilement les ordres placés lorsque le marché est fermé.
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section id="S-103-8" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-8.ff7bd798.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Raccourcis clavier, souris, et manette</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Une nouvelle fenêtre de raccourcis est disponible - elle vous permet de régler des raccourcis pour les fonctionnalités de la plateforme et pour votre trading.
+                    </li>
+                    <li>ProRealTime peut désormais utiliser une manette comme périphérique (parfois utilisé en scalping).</li>
+                    <li>Une même fonction peut avoir un raccourci attribué sur chaque type de périphérique.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-36.e5f2b456.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-9" class="bg-ghost-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-2.d5d519b5.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Ticker multi-instrument</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Nouveau ticker multi-instrument avec colonnes multiples (mode plein écran disponible)</li>
+                    <li>Ajoutez plusieurs instruments à une liste tick par tick via un glisser / déposer depuis une fenêtre listes ou en cliquant sur l’icône paramètres dans la barre de titre. Supprimez des instruments de la liste tick par tick en cliquant sur sur la croix rouge dans la barre de titre.
+                    </li>
+                    <li>Nouvelle colonne "capital" (volume * prix du tick)</li>
+                    <li>Nouveaux filtres dans la fenêtre des paramètres pour afficher seulement les ticks possédant un volume ou un capital minium choisi
+                    </li>
+                    <li>Notez qu'afficher un seul instrument dans une liste tick par tick vous permet de charger l'ensemble des ticks de la journée pour cet instrument.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-3.624158b9.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-10" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-3.50e1c26a.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Nouveaux objets</h2>
+                    </div>
+                </div>
+                <p>Les objets suivants ont été ajoutés à la plateforme :</p>
+                <div class="row">
+                    <div class="col-lg-4"><p class="text-center">Rectangle oblique et Ellipse oblique</p>
+                        <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                             width="258px"
+                             src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-4.2ea30f12.png"></div>
+                    <div class="col-lg-4"><p class="text-center">Ellipse de Fibonacci</p>
+                        <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                             width="258px"
+                             src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-5.8f8ea9a7.png"></div>
+                    <div class="col-lg-4"><p class="text-center">Spirale de Fibonacci</p>
+                        <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                             width="258px"
+                             src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-6.66c4f34e.png"></div>
+                </div>
+                <ul class="list-circle">
+                    <li><b>Ellipse de Fibonacci</b> - le ratio hauteur/taille d'une ellipse de Fibonacci correspond au nombre d'or.
+                    </li>
+                    <li><b>Spirale de Fibonacci</b> - Les spirales de Fibonacci ont 6 rotations. Chaque taille de rotation est déterminée en multipliant la taille précédente par le nombre d'or.
+                    </li>
+                    <li><b>Carré de Gann</b> -  Le carré de Gann est tracé en paramétrant 2 coins opposés du carré. Les lignes intérieures peuvent servir de support et de résistance.
+                    </li>
+                    <li><b>Grille de Gann</b> -  Une grille de Gann est créée à partir de lignes parallèles formant une grille basée sur une ligne de tendance initiale.
+                    </li>
+                    <li><b>Objet texte amélioré</b> - Possibilité de lier du texte à un point, d'afficher des prix et des dates, d'afficher des textes inclinés, de n'afficher des textes qu'au survol de souris.
+                    </li>
+                    <li><b>Fourchettes de Schiff</b> - Cet objet est similaire aux fourchettes d'Andrews. Il se trace en choisissant deux extremums d'une tendance, puis en plaçant un 3ème point au dessus ou en dessous du deuxième. Il prendra alors comme origine le milieu de la distance verticale et horizontale des points haut et bas placés (les deux premiers points choisis).
+                    </li>
+                </ul>
+                <p>Améliorations des objets :</p>
+                <ul class="list-circle">
+                    <li>Niveaux supplémentaires pour les arcs et éventails de Fibonacci</li>
+                    <li>En plus des lignes, les objets peuvent désormais aussi être reportés sur les unités de temps inférieures (menu "Options plateforme).
+                    </li>
+                    <li></li>
+                    <li>Prise en charge des remplissages de couleurs sur plus d'objets.</li>
+                </ul>
+            </div>
+        </section>
+        <section id="S-103-11" class="bg-alice-blue">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-4.f1f44a5d.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Indicateurs</h2>
+                    </div>
+                </div>
+                <h3 class="fw-semi-bold">Nouveaux Indicateurs</h3>
+                <ul class="list-circle">
+                    <li><b> VWAP et VWAP bands</b>  - L'indicateur "Volume weighted average price" correspond au prix moyen pondéré par le volume sur une période choisie. Les "VWAP bands" appliquent un écart-type à l'indicateur VWAP (fonctionnement similaire aux bandes de bollinger).
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-10.c372e72c.png">
+                </div>
+                <ul class="list-circle">
+                    <li><b>Coefficient de corrélation</b> - mesure la corrélation du prix entre 2 instruments. Une corrélation proche de 1 démontre une très forte corrélation.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-11.f4503786.png">
+                </div>
+                <ul class="list-circle">
+                    <li><b>Awesome Oscillator</b> - Awesome Oscillator est un oscillateur dynamique qui calcule la différence entre une moyenne mobile longue et une moyenne mobile courte appliquées à un prix médian.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-40.6e7f9742.png">
+                </div>
+                <ul class="list-circle">
+                    <li><b>KDJ</b> - KDJ est un indicateur stochastique avec une ligne supplémentaire "J" indiquant une divergence.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-41.90bb0697.png">
+                </div>
+                <ul class="list-circle">
+                    <li><b>Schaff trend</b> - Schaff trend cycle est un oscillateur qui combine Stochastique lent et MACD.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-42.ef75484e.png">
+                </div>
+                <h3 class="fw-semi-bold">Amélioration des indicateurs</h3>
+                <ul class="list-circle">
+                    <li>N'importe quel indicateur peut maintenant être ajouté depuis la fenêtre des propriétés du prix</li>
+                    <li>Les indicateurs peuvent être glissés / déposés entre différents graphiques</li>
+                    <li>Possibilité de personnaliser les étiquettes de valeur du prix et des indicateurs dans l'échelle verticale</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-12.57baa881.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Customizable time periods and time zones for pivot points</li>
+                </ul>
+            </div>
+        </section>
+        <section id="S-103-12" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-14.c5a6e281.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Listes</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Création et organisation de liste améliorée : copiez facilement des instruments d'une liste à une autre
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-24.3236caef.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Le surlignage a été amélioré dans les listes et vous pouvez maintenant utiliser 10 couleurs différentes en même temps
+                    </li>
+                    <li>Les instruments sélectionnés sont surlignés dans tous les tableaux de la plateforme en incluant celui des listes, des ordres, des portefeuilles, des screeners, des palmarès, etc.
+                    </li>
+                    <li>Les flèches haut / bas permettent de trier vos listes manuellement.</li>
+                    <li>Les listes et ProScreeners conservent désormais le focus, même après avoir cliqué dedans pour ouvrir un graphique.</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-25.f4f00cd8.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-13" class="bg-ghost-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-1.c852ba2d.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Alertes</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Voix humaine pour annoncer l'exécution des ordres et des alertes (ex : "Achat au marché exécuté" ; "Alerte déclenchée - vente")
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-1.c18da315.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Nouvelle fenêtre de création / modification d'alertes</li>
+                    <li>Alertes emails gratuites en complément des alertes SMS existantes</li>
+                    <li>Plus de conditions pour les alertes (ex: croisement à la hausse et croisement à la baisse)</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-2.57b338c3.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-14" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-5.3b37b43f.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Sauvegardes</h2>
+                    </div>
+                </div>
+                <p>Sauvegarder votre travail est maintenant plus facile : dans la version 10.3, toutes vos données sont sauvegardées lorsque vous enregistrez un espace de travail.</p>
+                <p>Dans le menu "Fichier", sélectionnez :</p>
+                <ul class="list-circle">
+                    <li>"Charger un espace de travail" pour afficher un espace de travail précédemment enregistré ou un espace prédéfini</li>
+                    <li>"Enregistrer" pour sauvegarder votre espace de travail courant</li>
+                    <li>"Enregistrer sous..." pour enregistrer en tant que nouvel espace de travail</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-13.171e2088.png">
+                </div>
+                <p>Vous pouvez maintenant créer des "Espaces de travail favoris" qui apparaîtront au dessus de tous les autres.</p>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-14.8650dd18.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-15" class="bg-alice-blue">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-9.ad80ab2f.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">ProBacktest et rapports détaillés</h2>
+                    </div>
+                </div>
+                <h3 class="fw-semi-bold">Backtest en mode tick par tick</h3>
+                <ul class="list-circle">
+                    <li>ProBacktest propose désormais un mode de simulation en tick par tick pour générer des résultats aussi proches que possibles d'une exécution temps réel.
+                    </li>
+                    <li>Le backtest en mode tick par tick vous permet de déterminer la séquence d'exécution des ordres si plusieurs ordres sont placés par votre système dans le range de prix d'un même chandelier.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-47.e4907f60.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Par exemple, si votre système de trading place un Objectif et un Stop qui peuvent potentiellement être touchés par un même chandelier (comme montré dans l'image), le backtest utilisera les données tick par tick pour déterminer lequel sera exécuté.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/popup-features-10-3-48.8663ad38.png">
+                </div>
+                <ul class="list-circle">
+                    <li></li>
+                </ul>
+                <h3 class="fw-semi-bold">Rapport détaillé amélioré</h3>
+                <ul class="list-circle">
+                    <li>Le rapport détaillé a été amélioré avec l'ajout d'une page de résumé contenant notamment un graphique de performance hebdomadaire, mensuelle, trimestrielle ou annuelle.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-18.f9ed825b.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-16" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-10.524c3373.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Création et modification de systèmes de trading</h2>
+                    </div>
+                </div>
+                <p>Le mode de création simplifiée a été amélioré pour vous donner davantage d'options et de flexibilité pour créer des systèmes de trading sans devoir programmer.</p>
+                <ul class="list-circle">
+                    <li>Vous pouvez maintenant choisir les horaires (et les jours de la semaine) pendant lesquels vos systèmes de trading seront autorisés ou non à passer des ordres ou à être en position.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-19.f397d589.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Choisissez le niveau de vos Stops et Objectifs, et le logiciel vous indiquera automatiquement le ratio de risque-rendement. Vous pouvez aussi choisir un ratio directement, et le logiciel ajustera votre objectif en conséquence.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-20.baaccbf9.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Après avoir créé une stratégie ou un scan de marché avec le mode de création simplifiée, vous pouvez maintenant également le modifier sans programmation !
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-21.46dc5bb5.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Les stratégies et scans de marché créés avec le mode de création simplifiée auront désormais leurs codes verrouillés par défaut.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-22.290fc801.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Les stratégies et scans de marché créés par programmation auront leurs codes déverrouillés par défaut.</li>
+                </ul>
+            </div>
+        </section>
+        <section id="S-103-17" class="bg-ghost-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-12.4d832eb1.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Éditeur de code amélioré</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Vous pouvez maintenant ouvrir plusieurs fenêtres de programmation à la fois (pour par exemple travailler sur un indicateur et sur 2 stratégies distinctes simultanément) !
+                    </li>
+                    <li>L'espace libre pour coder a été agrandi de façon significative dans tous les éditeurs de codes (stratégies de trading, indicateurs et screeners)
+                    </li>
+                    <li>La description du code a été déplacée vers une section dédiée accessible via l’icône à coté du titre</li>
+                    <li>La nouvelle icône "ampoule" (ou le raccourci clavier CTRL+espace) vous permettra de cliquer sur un mot incomplet et l'éditeur vous suggérera des termes
+                    </li>
+                    <li>La fenêtre "ajouter fonction" contient désormais un champ de recherche pour trouver plus facilement la fonction de votre choix</li>
+                    <li>L'optimisation des variables a été déplacée dans la barre du haut et l'ergonomie de la fenêtre a été améliorée
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-23.d0006d11.png">
+                </div>
+                <p>Le langage de programmation vous permet maintenant de tracer par le code des objets et des bougies dans les graphiques de prix ou de vos indicateurs personnalisés ProBuilder.</p>
+                <ul class="list-circle">
+                    <li>
+                        <span class="courier"><span style="color:#669900">BackgroundColor</span></span>: lets you
+                        color
+                        the
+                        background of the chart or specific bars (such as odd/even days). The colored zone starts
+                        halfway
+                        between the previous bar and the next bar.
+                        <b>Example:</b> <span class="courier"><span style="color:#669900"><span
+                                        class="courier"><span
+                                            style="color:#669900">BACKGROUNDCOLOR</span></span></span>(<span
+                                    style="color:#FF00FF">0</span>,<span style="color:#FF00FF">127</span>,<span
+                                    style="color:#FF00FF">255</span>,<span style="color:#FF00FF">25</span>)</span>
+                        It is possible to use a variable for the colors if you want the background color to change
+                        based
+                        on
+                        your conditions.
+                        <b>Example:</b> <span class="courier"><span style="color:#669900"><span
+                                        class="courier"><span
+                                            style="color:#669900">BACKGROUNDCOLOR</span></span></span>(<span
+                                    style="color:#FF00FF">0</span>,color,<span
+                                    style="color:#FF00FF">255</span>,<span
+                                    style="color:#FF00FF">25</span>)</span></li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-29.b405184a.png">
+                </div>
+                <ul class="list-circle">
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawBarChart</span></span>: Draws a custom
+                        bar
+                        on
+                        the chart. Open, high, low and close can be constants or variables.
+                        <b>Example:</b> <span class="courier"><span style="color:#669900"><span
+                                        class="courier"><span
+                                            style="color:#669900">DRAWBARCHART</span></span>(<span
+                                        style="color:#3300FF">open</span>,<span
+                                        style="color:#3300FF">high</span>,<span
+                                        style="color:#3300FF">low</span>,<span
+                                        style="color:#3300FF">close</span>)</span></span> <span
+                                class="courier"><span
+                                    style="color:#3300FF">COLOURED</span>(<span style="color:#FF00FF">0</span>,<span
+                                    style="color:#FF00FF">255</span>,<span style="color:#FF00FF">0</span>)</span>
+                    </li>
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawCandle</span></span>: Draws a custom
+                        candlestick on the chart. Open, high, low and close can be constants or variables.
+                        <b>Example:</b> <span class="courier"><span style="color:#669900"><span
+                                        class="courier"><span
+                                            style="color:#669900">DRAWCANDLE</span></span>(<span
+                                        style="color:#3300FF">open</span>,<span
+                                        style="color:#3300FF">high</span>,<span
+                                        style="color:#3300FF">low</span>,<span
+                                        style="color:#3300FF">close</span>)</span></span> <span
+                                class="courier"><span
+                                    style="color:#3300FF">COLOURED</span>(<span style="color:#FF00FF">0</span>,<span
+                                    style="color:#FF00FF">255</span>,<span style="color:#FF00FF">0</span>)</span>
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-30.13156b40.png">
+                </div>
+                <ul class="list-circle">
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawArrow</span></span>: Draws an arrow
+                        pointing
+                        right. You need to define a point for the arrow (x and y axis). You can also choose a color.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWARROW</span>(x1,y1)</span>
+                        <span class="courier"><span style="color:#3300FF">COLOURED</span>(R,V,B,a)</span>
+                        This is useful to add visual buy signals.
+                    </li>
+                    <li>
+                        <span class="courier"><span style="color:#669900"><span class="courier"><span
+                                            style="color:#669900">DrawArrow</span></span>Up</span></span>:
+                        Draws an arrow pointing up. You need to define a point for the arrow (x and y axis). You can
+                        also
+                        choose a color.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWARROWUP</span>(x1,y1)</span>
+                        <span class="courier"><span style="color:#3300FF">COLOURED</span>(R,V,B,a)</span>
+                        This is useful to add visual buy signals.
+                    </li>
+                    <li>
+                        <span class="courier"><span style="color:#669900"><span class="courier"><span
+                                            style="color:#669900">DrawArrow</span></span>Down</span></span>:
+                        Draws an arrow pointing down. You need to define a point for the arrow (x and y axis). You
+                        can
+                        also
+                        choose a color.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWARROWDOWN</span>(x1,y1)</span>
+                        <span class="courier"><span style="color:#3300FF">COLOURED</span>(R,V,B,a)</span>
+                        This is useful to add visual sell signals.
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-31.b156647a.png">
+                </div>
+                <ul class="list-circle">
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawRectangle</span></span>: Draws a
+                        rectangle
+                        on
+                        the chart.
+                        <b>Example:</b> <span class="courier"><span style="color:#669900">DRAWRECTANGLE</span>(x1,y1,x2,y2)</span>
+                        <span class="courier"><span style="color:#3300FF">COLOURED</span>(R,V,B,a)</span></li>
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawEllipse</span></span>: Draws an
+                        ellipse on
+                        the
+                        chart.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWELLIPSE</span>(x1,y1,x2,y2)</span> <span
+                                class="courier"><span
+                                    style="color:#3300FF">COLOURED</span>(R,V,B,a)</span></li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-32.e41b8696.png">
+                </div>
+                <ul class="list-circle">
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawLine</span></span>: Draws a line on
+                        the
+                        chart.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWLINE</span>(x1,y1,x2,y2)</span> <span
+                                class="courier"><span
+                                    style="color:#3300FF">COLOURED</span>(R,V,B,a)</span></li>
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawHLine</span></span>: Draws a
+                        horizontal
+                        line
+                        on the chart.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWHLINE</span>(x1,y1,x2,y2)</span> <span
+                                class="courier"><span
+                                    style="color:#3300FF">COLOURED</span>(R,V,B,a)</span></li>
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawVLine</span></span>: Draws a vertical
+                        line
+                        on
+                        the chart.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWVLINE</span>(x1,y1,x2,y2)</span> <span
+                                class="courier"><span
+                                    style="color:#3300FF">COLOURED</span>(R,V,B,a)</span></li>
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawSegment</span></span>: Draws a segment
+                        on
+                        the
+                        chart.
+                        <b>Example:</b> <span class="courier"><span
+                                    style="color:#669900">DRAWSEGMENT</span>(x1,y1,x2,y2)</span> <span
+                                class="courier"><span
+                                    style="color:#3300FF">COLOURED</span>(R,V,B,a)</span>
+                        <b>Example:</b> <span class="courier"><span style="color:#669900">DRAWSEGMENT</span>(<span
+                                    style="color:#3300FF">barindex</span>, <span
+                                    style="color:#3300FF">close</span>, <span
+                                    style="color:#3300FF">barindex[</span><span style="color:#FF00FF">5</span><span
+                                    style="color:#3300FF">]</span>, <span style="color:#3300FF">close[</span><span
+                                    style="color:#FF00FF">5</span><span style="color:#3300FF">]</span>)</span></li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-33.2cc9df69.png">
+                </div>
+                <ul class="list-circle">
+                    <li>
+                        <span class="courier"><span style="color:#669900">DrawText</span></span>: Adds a text field
+                        to
+                        the
+                        chart with the text of your choice at the specified location.
+                        <b>Example:</b> <span class="courier"><span style="color:#669900"><span
+                                        class="courier"><span
+                                            style="color:#669900">DRAWTEXT</span></span></span>(<span
+                                    style="color:#DC0000">"your text"</span>,x1,y1) <span
+                                    style="color:#3300FF">COLOURED</span>(R,V,B,a)</span></li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-34.c018b5a9.png">
+                </div>
+                <ul class="list-circle">
+                    <li>
+                        <span class="courier"><span style="color:#3300FF">DrawOnLastBarOnly</span></span>: Parameter
+                        that
+                        lets you draw drawn objects on the last bar only. This parameter should always be used with
+                        "<span
+                                class="courier"><span style="color:#3300FF">CalculateOnLastBars</span></span>" to
+                        optimize
+                        calculations.
+                        <b>Example:</b> <span class="courier"><span style="color:#3300FF">DEFPARAM <span
+                                        class="courier"><span
+                                            style="color:#3300FF">DRAWONLASTBARONLY</span></span></span> = <span
+                                    style="color:#FF00FF">true</span></span></li>
+                    <li>
+                        <span class="courier"><span style="color:#3300FF">CalculateOnLastBars</span></span>:
+                        Parameter
+                        that
+                        lets you increase the speed at which indicators are calculated by defining the number of
+                        bars to
+                        display the results, starting with the most recent bar.
+                        <b>Example:</b> <span class="courier"><span style="color:#3300FF">DEFPARAM <span
+                                        class="courier"><span
+                                            style="color:#3300FF">CALCULATEONLASTBARS</span></span></span> = <span
+                                    style="color:#FF00FF">200</span></span></li>
+                </ul>
+            </div>
+        </section>
+        <section id="S-103-18" class="bg-white">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-7.1754f28f.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Nouvelles fenêtres dédiées aux options</h2>
+                    </div>
+                </div>
+                <h3 class="fw-semi-bold">Fenêtre de chaîne d'options</h3>
+                <ul class="list-circle">
+                    <li>Cette nouvelle fenêtre  permet d'afficher les chaînes d'options</li>
+                    <li>Sélectionnez un instrument sous-jacent pour afficher les options qui s'y rattachent
+                    </li>
+                    <li>Filtrez les options visibles par date d'expiration et par prix minimum / maximum de strike</li>
+                    <li>Placez des ordres en cliquant dans les colonnes "Offre" et "Demande"</li>
+                    <li>Les graphiques de performance peuvent être ouverts en cliquant sur l'icône %icon_chain%
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-16.cb0f2bc4.png">
+                </div>
+                <h3 class="fw-semi-bold">Fenêtre de Pricer d'options</h3>
+                <ul class="list-circle">
+                    <li>Cette nouvelle fenêtre permet d'analyser et de comparer des scénarios pour les prix d'options (Call et Put)</li>
+                    <li>Visualisez le profil de gain de vos scénarios, en fonction du prix du sous-jacent, de la volatilité ou du temps restant à échéance
+                    </li>
+                    <li>Visualisez le prix d'option théorique et les grecques de chacun de vos scénarios</li>
+                    <li>Chaque paramètre peut être défini manuellement ou se baser sur la dernière information disponible en temps réel</li>
+                    <li>Tradez votre option directement depuis la fenêtre de pricer</li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-35.9c3789f2.png">
+                </div>
+            </div>
+        </section>
+        <section id="S-103-19" class="bg-alice-blue">
+            <div class="container-lg">
+                <div class="feature-section-header">
+                    <div><img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                              src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/features/features_10_3/menu/icon-15.3f80c7ac.png">
+                    </div>
+                    <div>
+                        <h2 class="feature-section-header-title fw-semi-bold mx-4">Autres améliorations</h2>
+                    </div>
+                </div>
+                <ul class="list-circle">
+                    <li>Les icônes dans la plateforme s'adaptent désormais mieux aux grandes tailles de police de caractères</li>
+                </ul>
+                <div class="text-center">
+                    <p class="text-center smalltext">PLUS PETITES ICÔNES &amp; POLICE</p>
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-26.dffcc514.png">
+                </div>
+                <div class="text-center">
+                    <p class="text-center smalltext">PLUS GRANDES ICÔNES &amp; POLICE</p>
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-27.33251ad3.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Nouvelles flèches monter / descendre pour sélectionner l'instrument précédent  / suivant dans les listes (également dans ProScreener et Palmarès)
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <img class="img-fluid mx-auto d-block lazy" loading="lazy" alt=""
+                         src="/build/images/temp.f90ffd71.jpg" data-src="/build/images/fr/features/features_10_3/popup-features-10-3-28.1bf72f95.png">
+                </div>
+                <ul class="list-circle">
+                    <li>Nouvelle option du carnet d'ordres pour calculer le prix d'équilibre durant les phases de pré-ouverture des marchés</li>
+                    <li>Nouvelle option pour reporter l'affichage de tous les objets vers les unités de temps inférieures dans le menu "Options" &gt; "Options plateforme" &gt; "Général"
+                    </li>
+                    <li>Fenêtre des détails curseur améliorée</li>
+                    <li>Fenêtre des requêtes au support technique améliorée</li>
+                    <li>Affichage de la plateforme et des graphiques améliorée pour les écrans à très haute définition (&gt; 150 pixels par pouce)</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+        </div>
+
+                    <div id="back-to-top">
+                                                     <button style="display: none;" data-controller="back-to-top" class="btn-bottom" type="button"
+                            data-bs-toggle="offcanvas" data-action="click->back-to-top#top"
+                            data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path d="M16.71,9.29l6,6c0.39,0.39,0.39,1.02,0,1.41s-1.02,0.39-1.41,0L17,12.41V25c0,0.55-0.45,1-1,1s-1-0.45-1-1V12.41l-4.29,4.29
+	c-0.39,0.39-1.02,0.39-1.41,0s-0.39-1.02,0-1.41l6-6C15.68,8.9,16.32,8.9,16.71,9.29z M22,8c0.55,0,1-0.45,1-1s-0.45-1-1-1H10
+	C9.45,6,9,6.45,9,7s0.45,1,1,1H22z"/>
+</svg>
+
+                    </button>
+                            </div>
+        
+         
+                    
+<section class="disclaimer-prefooter">
+    <div class="container-lg">
+                <p class="lead-18 text_important text-left">
+                            Le trading peut vous exposer à des risques de pertes supérieures aux dépôts et ne convient qu'à une clientèle avisée ayant les moyens financiers de supporter un tel risque. Ce site n'est en aucun cas une offre de conseil en investissement ni une incitation quelconque à acheter ou vendre des instruments financiers.
+                    </p>
+    </div>
+</section>
+
+        
+        
+
+<div class="offcanvas offcanvas-end" id="countryLanguageSelector"
+     data-controller="cl-selector"
+     tabindex="-1" aria-hidden="true">
+
+    <div class="offcanvas-header justify-content-end">
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+    </div>
+
+    <div class="offcanvas-body">
+        <p class="fw-semi-bold fs-21">Pays et Langue</p>
+
+        <turbo-frame id="countrySelectorFrame" class="my-30" loading="lazy"
+                     src="/fr/country-selection/frame"></turbo-frame>
+
+        <fieldset class="toggle-container my-30">
+            <legend class="col-form-label fw-semi-bold">Votre langue</legend>
+            <div class="row g-10">
+                                    <div class="col-4 mt-0">
+                        <input type="radio"                                id="languageSelectEN" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/en/new-features-ProRealTime-v10-3"
+                               required="required" class="btn-check form-check-input" value="en">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectEN">
+                            <span class="flag-svg flag-svg-en"></span>
+                            <span class="fw-normal fs-12">English</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 mt-0">
+                        <input type="radio" checked                               id="languageSelectFR" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/fr/nouveautes-de-ProRealTime-v10-3"
+                               required="required" class="btn-check form-check-input" value="fr">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectFR">
+                            <span class="flag-svg flag-svg-fr"></span>
+                            <span class="fw-normal fs-12">Français</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 mt-0">
+                        <input type="radio"                                id="languageSelectDE" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/de/neue-funktionen-bei-ProRealTime-v10-3"
+                               required="required" class="btn-check form-check-input" value="de">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectDE">
+                            <span class="flag-svg flag-svg-de"></span>
+                            <span class="fw-normal fs-12">Deutsch</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 ">
+                        <input type="radio"                                id="languageSelectES" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/es/nuevas-funcionalidades-de-ProRealTime-v10-3"
+                               required="required" class="btn-check form-check-input" value="es">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectES">
+                            <span class="flag-svg flag-svg-es"></span>
+                            <span class="fw-normal fs-12">Español</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 ">
+                        <input type="radio"                                id="languageSelectIT" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/it/nuove-funzionalita-di-ProRealTime-v10-3"
+                               required="required" class="btn-check form-check-input" value="it">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectIT">
+                            <span class="flag-svg flag-svg-it"></span>
+                            <span class="fw-normal fs-12">Italiano</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 ">
+                        <input type="radio"                                id="languageSelectNL" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/nl/nieuwe-features-in-ProRealTime-v10-3"
+                               required="required" class="btn-check form-check-input" value="nl">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectNL">
+                            <span class="flag-svg flag-svg-nl"></span>
+                            <span class="fw-normal fs-12">Nederlands</span>
+                        </label>
+                    </div>
+                            </div>
+        </fieldset>
+
+        <div class="d-flex justify-content-center my-30">
+            <button type="button" class="btn btn-link fw-normal" data-bs-dismiss="offcanvas">
+                Fermer
+            </button>
+        </div>
+    </div>
+</div>
+
+
+                    
+
+<footer>
+    <div class="container-lg">
+        <div class="row gap-4 gap-xl-0">
+            <div
+                class="col-12  col-xl-3 d-flex flex-column gap-xl-4 align-self-center contact-box align-items-xl-start"
+            >
+                <div class="row g-0 gap-xl-4">
+                    <div class="d-flex flex-column col-6 col-xl-12  align-items-start align-items-sm-center align-items-xl-start gap-4">
+                        <div class="prt-logo">
+                                                            <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="160px" height="34px" viewBox="0 0 160 34" enable-background="new 0 0 160 34" xml:space="preserve">
+<path fill="#FFFFFF" d="M71.63,4.08v5.45h3.19c0.76,0.02,1.49-0.26,2.05-0.78c0.55-0.5,0.85-1.22,0.84-1.97
+	c0-0.71-0.28-1.39-0.8-1.88c-0.51-0.54-1.22-0.84-1.96-0.82L71.63,4.08z M71.63,17.65h-1.98V2.17h5.26
+	c1.27-0.03,2.49,0.45,3.41,1.34c0.93,0.83,1.45,2.02,1.42,3.27c0.01,1.05-0.37,2.06-1.06,2.85c-0.67,0.81-1.6,1.37-2.63,1.58
+	l-0.04,0.06l4.33,6.29v0.08h-2.35l-4.16-6.27h-2.2V17.65z M87.38,18c-1.45,0.04-2.85-0.54-3.84-1.6c-1.02-1.09-1.56-2.55-1.51-4.04
+	c-0.05-1.48,0.48-2.92,1.47-4.02c0.95-1.07,2.32-1.66,3.75-1.62c1.41-0.07,2.77,0.5,3.73,1.53c1,1.19,1.5,2.71,1.4,4.26l-0.02,0.22
+	h-8.3c-0.01,0.94,0.36,1.85,1.03,2.51c1.32,1.29,3.44,1.26,4.73-0.06c0.25-0.26,0.46-0.56,0.62-0.89l1.77,0.86
+	c-0.45,0.87-1.14,1.6-1.98,2.1C89.36,17.75,88.38,18.01,87.38,18z M84.21,11.08h6.06c-0.04-0.7-0.37-1.36-0.91-1.82
+	c-0.6-0.51-1.37-0.78-2.16-0.74c-0.71-0.01-1.4,0.23-1.94,0.69C84.72,9.71,84.34,10.36,84.21,11.08z M96.82,14.41
+	c0,0.51,0.24,0.99,0.65,1.3c0.44,0.34,0.99,0.53,1.55,0.51c0.83,0,1.63-0.33,2.22-0.93c0.63-0.55,0.99-1.35,0.99-2.18
+	c-0.75-0.53-1.67-0.79-2.59-0.74c-0.72-0.03-1.43,0.18-2.03,0.58C97.12,13.28,96.82,13.82,96.82,14.41z M99.39,6.71
+	c1.27-0.07,2.51,0.36,3.47,1.19c0.87,0.84,1.34,2.01,1.27,3.22v6.52h-1.9v-1.47h-0.09c-0.7,1.14-1.94,1.83-3.28,1.82
+	c-1.07,0.03-2.12-0.34-2.93-1.04c-0.76-0.65-1.18-1.6-1.16-2.59c-0.03-1.02,0.42-1.99,1.23-2.62c0.96-0.69,2.13-1.03,3.31-0.97
+	c1.01-0.04,2.01,0.18,2.91,0.65v-0.45c0.01-0.68-0.3-1.32-0.82-1.75c-0.52-0.48-1.2-0.74-1.91-0.74c-1.06-0.02-2.06,0.51-2.63,1.41
+	l-1.75-1.1C96.08,7.4,97.7,6.62,99.39,6.71L99.39,6.71z M109.43,2.17v15.47h-1.98V2.17H109.43z M118.53,4.08v13.57h-1.98V4.08h-4.31
+	v-1.9h10.61v1.9H118.53z M127.55,3.41c0.01,0.37-0.14,0.73-0.41,0.99c-0.55,0.55-1.44,0.55-1.98,0c-0.27-0.26-0.42-0.62-0.41-0.99
+	c-0.01-0.37,0.14-0.73,0.41-0.99c0.55-0.55,1.44-0.55,1.98,0C127.41,2.67,127.56,3.03,127.55,3.41z M127.14,7.06v10.59h-1.98V7.06
+	H127.14z M132.78,17.65h-1.98V7.06h1.9v1.47h0.08c0.33-0.55,0.81-1,1.38-1.3c0.57-0.33,1.22-0.5,1.88-0.51
+	c0.72-0.02,1.43,0.17,2.05,0.54c0.58,0.35,1.03,0.87,1.29,1.49c0.76-1.29,2.15-2.07,3.64-2.03c1.06-0.07,2.09,0.34,2.82,1.12
+	c0.72,0.91,1.07,2.05,1,3.2v6.61h-1.99v-6.31c0.07-0.75-0.12-1.51-0.54-2.14c-0.47-0.49-1.14-0.74-1.81-0.67
+	c-0.76,0-1.47,0.36-1.92,0.97c-0.52,0.65-0.79,1.46-0.78,2.29v5.85h-1.98v-6.31c0.07-0.75-0.12-1.51-0.54-2.14
+	c-0.47-0.49-1.14-0.74-1.81-0.67c-0.76,0-1.47,0.36-1.92,0.97c-0.52,0.65-0.79,1.46-0.78,2.29V17.65z M154.98,18
+	c-1.45,0.04-2.85-0.54-3.84-1.6c-1.02-1.09-1.56-2.55-1.51-4.04c-0.05-1.48,0.48-2.92,1.47-4.02c0.95-1.07,2.32-1.66,3.75-1.62
+	c1.41-0.07,2.77,0.5,3.73,1.53c1,1.19,1.5,2.71,1.4,4.26l-0.02,0.22h-8.3c-0.01,0.94,0.36,1.85,1.04,2.51
+	c1.32,1.29,3.44,1.26,4.73-0.06c0.25-0.26,0.46-0.56,0.62-0.89l1.77,0.86c-0.45,0.87-1.14,1.6-1.98,2.1
+	C156.97,17.75,155.98,18.02,154.98,18z M151.81,11.08h6.06c-0.04-0.7-0.37-1.36-0.91-1.82c-0.6-0.51-1.37-0.78-2.16-0.74
+	c-0.71-0.01-1.4,0.23-1.94,0.69C152.32,9.71,151.95,10.36,151.81,11.08z M36.98,11.38v6.27H35V2.17h5.26
+	c1.27-0.03,2.49,0.45,3.41,1.34c0.92,0.83,1.44,2.02,1.42,3.27c0.03,1.25-0.49,2.45-1.42,3.29c-0.91,0.88-2.14,1.35-3.41,1.32H36.98
+	z M36.98,4.07v5.41h3.32c0.74,0.02,1.45-0.27,1.96-0.8c1.04-1.01,1.07-2.68,0.06-3.73c-0.02-0.02-0.04-0.04-0.06-0.06
+	c-0.51-0.54-1.22-0.84-1.96-0.82L36.98,4.07z M49.89,17.65H47.9V7.06h1.9v1.73h0.09c0.24-0.6,0.67-1.11,1.23-1.43
+	c0.55-0.38,1.19-0.59,1.85-0.61c0.5-0.01,1,0.07,1.47,0.26l-0.6,1.92c-0.38-0.12-0.77-0.17-1.16-0.15c-0.75,0-1.47,0.33-1.96,0.91
+	c-0.54,0.57-0.83,1.33-0.82,2.12L49.89,17.65z M55.56,12.36c-0.05-1.5,0.5-2.95,1.53-4.04c1.02-1.06,2.43-1.64,3.9-1.6
+	c1.46-0.04,2.87,0.54,3.88,1.6c1.04,1.08,1.6,2.54,1.55,4.04c0.05,1.5-0.51,2.96-1.55,4.04c-1.01,1.06-2.42,1.64-3.88,1.6
+	c-1.47,0.04-2.88-0.54-3.9-1.6C56.06,15.31,55.51,13.85,55.56,12.36z M57.54,12.36c-0.04,1.02,0.31,2.01,0.99,2.77
+	c1.29,1.36,3.43,1.42,4.79,0.13c0.04-0.04,0.09-0.08,0.13-0.13c0.68-0.76,1.04-1.75,0.99-2.77c0.04-1.01-0.31-2-0.99-2.75
+	c-1.25-1.36-3.36-1.45-4.72-0.2c-0.07,0.06-0.13,0.13-0.2,0.2C57.85,10.36,57.5,11.34,57.54,12.36z"/>
+<path fill="#5CB8EC" d="M38.26,34c-1.82,0-3.23-0.96-3.26-2.62h1.89c0.05,0.71,0.52,1.17,1.33,1.17c0.83,0,1.32-0.44,1.32-1.07
+	c0-1.9-4.53-0.76-4.52-3.94c0-1.59,1.28-2.54,3.1-2.54c1.8,0,3.03,0.92,3.15,2.5h-1.94c-0.04-0.58-0.5-1.03-1.26-1.04
+	c-0.69-0.03-1.21,0.31-1.21,1.03c0,1.76,4.51,0.78,4.51,3.88C41.37,32.75,40.26,34,38.26,34z M50.12,34c-2.48,0-4.51-1.86-4.51-4.51
+	c0-2.63,2.03-4.49,4.51-4.49c2.5,0,4.49,1.86,4.49,4.49C54.62,32.14,52.62,34,50.12,34z M50.12,32.43c1.59,0,2.68-1.15,2.68-2.93
+	c0-1.79-1.1-2.91-2.68-2.91c-1.6,0-2.69,1.12-2.69,2.91C47.43,31.28,48.53,32.43,50.12,32.43z M59.08,25.13h5.43v1.42h-3.66v2.25
+	h2.81v1.4h-2.81v3.71h-1.76V25.13z M68.44,25.13h6.44v1.42h-2.34v7.36h-1.76v-7.36h-2.34V25.13z M78.73,25.13h1.89l1.55,6.82
+	l1.79-6.82h1.96l1.69,6.78l1.56-6.78h1.9l-2.45,8.79h-2.08l-1.65-6.26l-1.72,6.26l-2.06,0.01L78.73,25.13z M100.75,32.24h-3.5
+	l-0.58,1.67h-1.85l3.16-8.8h2.05l3.16,8.8h-1.86L100.75,32.24z M99,27.15l-1.27,3.68h2.54L99,27.15z M110.83,25.13
+	c2.12,0,3.17,1.22,3.17,2.69c0,1.07-0.59,2.15-2,2.53l2.1,3.56h-2.04l-1.94-3.42h-0.83v3.42h-1.76v-8.79H110.83z M110.77,26.59
+	h-1.47v2.58h1.47c0.98,0,1.42-0.52,1.42-1.31C112.19,27.08,111.75,26.59,110.77,26.59z M123.85,26.55h-3.34v2.2h2.96v1.4h-2.96v2.33
+	h3.34v1.43h-5.1v-8.8h5.1V26.55z M4,17h3v13H4v4H3v-4H0V17h3v-3h1V17z M13,13h3v11h-3v4h-1v-4H9V13h3V9h1V13z M10,14v9h5v-9H10z
+	 M25,3v15h-3v4h-1v-4h-3V3h3V0h1v3H25z M24,4h-5v13h5V4z"/>
+</svg>
+
+                                                    </div>
+                        <button type="button" class="btn language-selector-button p-0 text-start"
+                                data-bs-toggle="offcanvas" data-bs-target="#countryLanguageSelector"
+                        >
+                            <span class="me-2"><svg class="icon-world"><use href="/build/images/svg-icons/common.89b27f4d.svg#world"/></svg></span>Nigeria</button>
+                    </div>
+                    <div
+                        class="d-flex flex-column col-6 col-xl-12 align-self-center align-items-sm-center align-items-xl-start gap-4 gap-md-2"
+                    >
+                        <a href="/fr/contact">+33 (0) 178 766 766</a>
+                        <a href="/fr/contact">Contactez-nous</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-xl-9 d-flex flex-wrap navbox">
+                <div class="navbox-col col-12 col-xl-3 text-start pe-xl-10">
+                    <div class="navbox-col-title d-none d-xl-block">Raccourcis</div>
+                    <div class="d-xl-none">
+                        <a href="#da-collapse" class="navbox-col-title collapsed" role="button"
+                           data-bs-toggle="collapse"
+                        >
+                            Raccourcis<span class="expand"></span>
+                        </a>
+                    </div>
+                    <div class="collapse" id="da-collapse">
+                        <a href="/fr/">Accueil</a>
+                        <a href="/fr/our-offers">Tarifs plateformes</a>
+                        <a href="/fr/tarifs">Tarifs du temps réel</a>
+                        <a href="/fr/financial-instruments">Bourses et marchés disponibles</a>
+                        <a href="/fr/avis-prorealtime">Votre avis est important</a>
+                    </div>
+                </div>
+                <div class="navbox-col col-12 col-xl-3 text-start pe-xl-10">
+                    <div class="navbox-col-title d-none d-xl-block">Nos applications</div>
+                    <div class="d-xl-none">
+                        <a href="#f-collapse" class="navbox-col-title collapsed" role="button"
+                           data-bs-toggle="collapse"
+                        >
+                            Nos applications<span class="expand"></span>
+                        </a>
+                    </div>
+                    <div class="collapse" id="f-collapse">
+                        <a href="/fr/applications">Pour tous vos appareils</a>
+                        <a href="/fr/ProRealTime-Complete">ProRealTime Complète</a>
+                        <a href="/fr/web" target="_prt_web">ProRealTime Web</a>
+                        <a href="/fr/ProRealTime-Mobile">ProRealTime Mobile</a>
+                        <a href="/fr/ProRealTime-Premium">ProRealTime Premium</a>
+                    </div>
+                </div>
+                <div class="navbox-col col-12 col-xl-3 text-start pe-xl-10">
+                    <div class="navbox-col-title d-none d-xl-block">Fonctionnalités</div>
+                    <div class="d-xl-none">
+                        <a href="#c-collapse" class="navbox-col-title collapsed" role="button"
+                           data-bs-toggle="collapse"
+                        >
+                            Fonctionnalités<span class="expand"></span>
+                        </a>
+                    </div>
+                    <div class="collapse" id="c-collapse">
+                        <a href="/fr/nouveautes-de-ProRealTime-v12">Nouveautés de ProRealTime v12</a>
+                        <a href="/fr/auto-trading">Trading automatique</a>
+                        <a href="/fr/streamdeck">Tradez avec un Stream Deck</a>
+                        <a href="/fr/cotations-bourse-temps-reel">Données de marché de qualité professionnelle</a>
+                        <a href="/fr/detection-automatique-lignes-tendance">Tracé automatique de supports et résistances</a>
+                    </div>
+                </div>
+                <div class="navbox-col col-12 col-xl-3 text-start pe-xl-10">
+                    <div class="navbox-col-title d-none d-xl-block">Aide &amp; Support</div>
+                    <div class="d-xl-none">
+                        <a href="#hs-collapse" class="navbox-col-title collapsed" role="button"
+                           data-bs-toggle="collapse"
+                        >
+                            Aide &amp; Support<span class="expand"></span>
+                        </a>
+                    </div>
+                    <div class="collapse" id="hs-collapse">
+                        <a href="/fr/help">Aide &amp; Support</a>
+                                                <a href="/fr/manuel-aide/introduction">Manuel d'aide</a>
+                        <a href="/fr/tutoriels-video">Vidéos d'aide</a>
+                        <a href="https://trading.prorealtime.com/fr/redirect?ep=proorder_programming_help.phtml" target="_blank">
+                            Aide à la programmation
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 d-flex justify-content-center justify-content-xl-end gap-3">
+                <div
+                    class="d-flex flex-column align-items-right align-items-xl-end justify-content-between gap-4 gap-xl-0"
+                >
+                    <div class="d-flex justify-content-end align-items-center gap-4">
+                        
+<div class="brokervergleich-box">
+    <div class="left">Meilleure<br><b>Plateforme</b><br><b>de Trading</b></div>
+    <div class="right">2023<br/><small>brokervergleich.com</small></div>
+</div>
+
+                        
+<div class="trustpilot-box">
+    <div class="notation"><span class="score">4.9</span> sur 5</div>
+    <div class="disclaimer">567 avis indépendants</div>
+</div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="legal-row">
+
+            <div class="row">
+                <div class="networks col-12 d-flex flex-row justify-content-center align-items-center col-lg-3 justify-content-lg-start mt-25">
+                    <a href="https://twitter.com/ProRealTimeFR/" target="_blank"
+                       rel="nofollow noreferrer" class="text-decoration-none" aria-label="X (Twitter)"
+                    >
+                        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: $$$/GeneralStr/196=Adobe Illustrator 27.6.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<path d="M25.68,22.62L32.23,15h-1.55l-5.69,6.62L20.44,15h-5.24l6.88,10.01L15.19,33h1.55l6.01-6.99l4.8,6.99h5.24L25.68,22.62
+	L25.68,22.62z M23.55,25.1l-0.7-1l-5.54-7.93h2.39l4.47,6.4l0.7,1l5.82,8.32h-2.39L23.55,25.1L23.55,25.1z"/>
+</svg>
+
+                    </a>
+                    <a href="https://www.facebook.com/ProRealTime.fr/" target="_blank"
+                       rel="nofollow noreferrer" class="text-decoration-none" aria-label="Facebook"
+                    >
+                        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<path d="M25.28,32.26v-7.54h2.53l0.38-2.94h-2.91v-1.87c0-0.85,0.24-1.43,1.46-1.43l1.56,0v-2.63c-0.27-0.04-1.19-0.12-2.27-0.12
+	c-2.24,0-3.78,1.37-3.78,3.88v2.17h-2.54v2.94h2.54v7.54H25.28z"/>
+</svg>
+
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCK463I5Yqv205831CB4y3oQ" target="_blank"
+                       rel="nofollow noreferrer" class="text-decoration-none" aria-label="YouTube"
+                    >
+                        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<path d="M34.49,18.7c-0.25-0.95-0.99-1.69-1.93-1.95C30.84,16.29,24,16.29,24,16.29s-6.84,0-8.55,0.46c-0.94,0.25-1.68,1-1.93,1.95
+	c-0.46,1.72-0.46,5.3-0.46,5.3s0,3.58,0.46,5.3c0.25,0.95,0.99,1.69,1.93,1.95c1.71,0.46,8.55,0.46,8.55,0.46s6.84,0,8.55-0.46
+	c0.94-0.25,1.68-1,1.93-1.95c0.46-1.72,0.46-5.3,0.46-5.3S34.94,20.42,34.49,18.7z M21.76,27.25v-6.51L27.48,24L21.76,27.25z"/>
+</svg>
+
+                    </a>
+                    <a href="https://www.instagram.com/prorealtime_fr/" target="_blank"
+                       rel="nofollow noreferrer" class="text-decoration-none" aria-label="Instagram"
+                    >
+                        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<path d="M20.07,14.57c-1.01,0.05-1.7,0.21-2.3,0.45c-0.62,0.24-1.15,0.57-1.68,1.1c-0.53,0.53-0.85,1.06-1.09,1.68
+	c-0.23,0.6-0.39,1.3-0.44,2.31c-0.04,1.01-0.05,1.34-0.05,3.92c0,2.58,0.02,2.9,0.06,3.92c0.05,1.01,0.21,1.7,0.45,2.3
+	c0.24,0.62,0.57,1.15,1.1,1.68c0.53,0.53,1.06,0.85,1.68,1.09c0.6,0.23,1.3,0.39,2.31,0.44c1.01,0.04,1.34,0.05,3.92,0.05
+	c2.58,0,2.9-0.02,3.92-0.06c1.01-0.05,1.7-0.21,2.3-0.45c0.62-0.24,1.15-0.57,1.68-1.1c0.53-0.53,0.85-1.06,1.09-1.68
+	c0.23-0.6,0.39-1.3,0.44-2.31c0.04-1.01,0.05-1.34,0.05-3.92c0-2.58-0.02-2.9-0.06-3.92c-0.05-1.01-0.21-1.7-0.45-2.31
+	c-0.24-0.62-0.57-1.15-1.1-1.68c-0.53-0.53-1.06-0.85-1.68-1.09c-0.6-0.23-1.3-0.39-2.31-0.44c-1.01-0.04-1.34-0.05-3.92-0.05
+	C21.4,14.51,21.08,14.52,20.07,14.57 M20.18,31.74c-0.93-0.04-1.43-0.19-1.76-0.32c-0.44-0.17-0.76-0.38-1.09-0.71
+	c-0.33-0.33-0.54-0.65-0.71-1.09c-0.13-0.34-0.29-0.84-0.33-1.76c-0.05-1-0.06-1.3-0.06-3.84c0-2.54,0-2.84,0.05-3.84
+	c0.04-0.93,0.19-1.43,0.32-1.76c0.17-0.44,0.38-0.76,0.71-1.09c0.33-0.33,0.65-0.54,1.09-0.71c0.33-0.13,0.84-0.29,1.76-0.33
+	c1-0.05,1.3-0.06,3.84-0.06c2.54,0,2.84,0,3.84,0.05c0.93,0.04,1.43,0.19,1.76,0.32c0.44,0.17,0.76,0.38,1.09,0.71
+	c0.33,0.33,0.54,0.65,0.71,1.09c0.13,0.33,0.29,0.84,0.33,1.76c0.05,1,0.06,1.3,0.06,3.84c0,2.54,0,2.84-0.05,3.84
+	c-0.04,0.93-0.19,1.43-0.32,1.76c-0.17,0.44-0.38,0.76-0.71,1.09c-0.33,0.33-0.65,0.54-1.09,0.71c-0.33,0.13-0.84,0.29-1.76,0.33
+	c-1,0.05-1.3,0.06-3.84,0.06C21.48,31.79,21.18,31.78,20.18,31.74 M27.92,18.92c0,0.63,0.51,1.14,1.14,1.14
+	c0.63,0,1.14-0.51,1.14-1.14c0-0.63-0.51-1.14-1.14-1.14C28.43,17.78,27.92,18.29,27.92,18.92 M19.12,24.01
+	c0.01,2.69,2.19,4.87,4.89,4.87c2.69-0.01,4.87-2.19,4.87-4.89c-0.01-2.69-2.19-4.87-4.89-4.87C21.3,19.13,19.12,21.32,19.12,24.01
+	 M20.83,24.01c0-1.75,1.41-3.17,3.16-3.17c1.75,0,3.17,1.41,3.17,3.16c0,1.75-1.41,3.17-3.16,3.17
+	C22.26,27.17,20.84,25.75,20.83,24.01"/>
+</svg>
+
+                    </a>
+                </div>
+                <!-- <div class="col-12 col-sm-9 justify-content-center align-items-center"> -->
+                    <ul class="row legal-items col-12 col-lg-9 d-flex flex-row align-items-center justify-content-lg-end gap-30 mt-5 mb-25 mt-md-50 mb-md-87 ">
+                        <li class="legal-item d-flex align-items-center justify-content-center col-12 col-lg-2">
+                            <a href="https://get.teamviewer.com/prtremotesupport" rel="nofollow"
+                               class="fw-normal d-inline-block" target="team_viewer"
+                            >
+                                <?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M19.04,2H4.96C3.33,2,2,3.33,2,4.96v14.08C2,20.67,3.33,22,4.96,22h14.08c1.63,0,2.96-1.33,2.96-2.96V4.96
+	C22,3.33,20.67,2,19.04,2z M12,20.04c-4.44,0-8.04-3.6-8.04-8.04S7.56,3.96,12,3.96s8.04,3.6,8.04,8.04S16.44,20.04,12,20.04
+	L12,20.04z M18.81,12l-5.19-2.83l0.57,1.79H9.81l0.57-1.79L5.19,12l5.19,2.84l-0.57-1.79h4.38l-0.57,1.79L18.81,12z"/>
+</svg>
+
+                                Outil de partage d'écran
+                            </a>
+                        </li>
+                        <li class="legal-item d-flex align-items-center justify-content-center col-12 col-lg-2">
+                            <a href="/fr/terms-of-use" class="fw-normal" target="_blank">
+                                Conditions générales d'utilisation et de vente
+                            </a>
+                        </li>
+                        <li class="legal-item d-flex align-items-center justify-content-center col-12 col-lg-2">
+                            <a href="/fr/privacy-policy" class="fw-normal" target="_blank">
+                                Traitement des données personnelles
+                            </a>
+                        </li>
+                        <li class="legal-item d-flex align-items-center justify-content-center col-12 col-lg-2">
+                            Copyright 2001-2023
+                        </li>
+                    </ul>
+                <!--</div>-->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 copyright">
+                ProRealTime est une marque de ProRealTime SAS, entreprise d'investissement agréée en France par l'Autorité de Contrôle Prudentiel et de Résolution (Banque de France).<br>ProRealTime SAS (Société par actions simplifiée) - N° 499 355 444 RCS Nanterre - N° TVA intracommunautaire : FR90499355444.<br>Siège social: ProRealTime SAS - 30 avenue Edouard Belin - 92500 Rueil-Malmaison - France.
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+                </body>
+</html>
+

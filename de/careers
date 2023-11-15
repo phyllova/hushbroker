@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+                                    <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                <link rel="icon" type="image/x-icon" href="/favicon.svg"/>
+                                    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex, nofollow, noimageindex" />
+
+                    
+                    
+                            
+                            <title>ProRealTime</title>
+            
+            <link rel="preload" href="/build/fonts/inter-v3-latin-600.89ece7ce.woff2" as="font" type="font/woff2"
+                  crossorigin/>
+            <link rel="preload" href="/build/fonts/poppins-v15-latin-600.e49343f0.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/inter-v3-latin-regular.351b7924.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/poppins-v15-latin-regular.5b8f3ba8.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/fa-solid-900.1551f4f6.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+            <link rel="preload" href="/build/fonts/inter-v3-latin-900.f762a24b.woff2" as="font"
+                  type="font/woff2" crossorigin/>
+                                                <link rel="stylesheet" href="/build/app_software.9715837d.css" as="style" integrity="sha384-VzZE5ieHdIphXjEiPj8FqjMvD6bbNbVLHJKlrEOwTocrzdK34rPVjYk7fUO2TdUt">
+                                <link rel="stylesheet" href="/build/vendor_software.9a23ab28.css" as="style" integrity="sha384-dWECfrclP1bOuZCZIZ6yONt/+vLkItkobzt3xRJkuBgf0WfwfLNtp/35kw9zz7U5">
+            
+    <link rel="stylesheet" href="/build/careers_software.180c851d.css" integrity="sha384-WpiwM2M8ANF74CtePPiYHPUZIMJ3OeWXb+Ft1LW6gRt8wtoH5fZ37ymF3e/mk3Ej">
+
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" defer=""></script>
+                <script src="/build/runtime.c10a1f23.js" defer preload integrity="sha384-UlAVYFcomaGZAQjH6e7LeEO/nLSsZrnKQn0nDysUAY2ChR/ZonbzRJhs3mZDRmMA"></script><script src="/build/5495.a8c3e113.js" defer preload integrity="sha384-bxsbhnJs80HPU+E3OB2NlniIcRmgu3wW4wxRQMTXL1A5+AT/GlAIzzAtu9yLwaiE"></script><script src="/build/3138.c963d015.js" defer preload integrity="sha384-N+XTsf38qB3S7JG1XGZod1cqbtqU0SzIqebE0CdW9z3uTA+ynsdJ5HVwyQl2frjt"></script><script src="/build/2224.c4800386.js" defer preload integrity="sha384-lS3P+jnF/51CPDiL7alYKyhAxfUnXfGlvpcoLx6BUeo0LOOIcMxBx5hBQSW99r17"></script><script src="/build/9890.8df91750.js" defer preload integrity="sha384-z5AlHHQoOE/NgKOVXdrjY5xG1UryDGD1sIH/oRFfx7gksrgYDv6cfY04oNRgRDjh"></script><script src="/build/410.2672ec48.js" defer preload integrity="sha384-RkGVJQ84GupqsP3PuGARNKYs6fQujRGhHSUJCtelGwe4qHUsnS7ozGF6ik9BRJ4j"></script><script src="/build/5713.5b304bce.js" defer preload integrity="sha384-NyXr0H5jyJDrhArBa8XpX79H0bOUYCTtAIwX+Xl+wG6/ncBBsn8AtVs0Rt/VwaDW"></script><script src="/build/5504.793e02c8.js" defer preload integrity="sha384-VZ6UoWZACsUCUTTj9VmtzMAJR9pvVUpT5hJRpkKX8zaaPxd14HLN11syouwnTzrT"></script><script src="/build/app_software.48a5cb89.js" defer preload integrity="sha384-VBQutHpli/D/9DCj3ZxG3D040Mc4FyQDaqdxYZipN4PVVnXYK7FHvkl5ThS7W697"></script>
+                    
+                    <script>
+                let appRequestHost = "//www.prorealtime.com";
+                let matomoHost = '/t/';
+            </script>
+            <script type="text/javascript">
+                let _paq = window._paq || [];
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+
+                let loadPiwik = function () {
+                    (function () {
+                        let u = appRequestHost;
+                        let d, g, s;
+                        _paq.push(['setTrackerUrl', 'https:' + u + matomoHost]);
+                        _paq.push(['setSiteId', '0']);
+                                                                        d = document;
+                        g = d.createElement('script');
+                        s = d.getElementsByTagName('script')[0];
+                        g.type = 'text/javascript';
+                        g.async = true;
+                        g.defer = true;
+                        g.src = 'https:' + u + '/build/3231.0641edb6.js';
+                        s.parentNode.insertBefore(g, s);
+                                                d = document;
+                        g = d.createElement('script');
+                        s = d.getElementsByTagName('script')[0];
+                        g.type = 'text/javascript';
+                        g.async = true;
+                        g.defer = true;
+                        g.src = 'https:' + u + '/build/matomo.9ecc0eec.js';
+                        s.parentNode.insertBefore(g, s);
+                                            })();
+                };
+
+                window.addEventListener('load', function () {
+                    $('body').one('onmouseover mousemove scroll resize touchstart touchcancel touchend touchmove', loadPiwik);
+                });
+            </script>
+            </head>
+    <body
+        class=" page_careers pt-0  "
+        data-controller="modal-manager scroll" data-turbo="false"
+                data-pos="0" data-device="desktop"
+    >
+                
+        
+        <div class="flex-fill bg-white">
+                <div id="content" data-controller="careers">
+                
+<nav id="menu" class="menuCareer navbar navbar-expand-lg navbar-light ontop p-0">
+    <table>
+        <tbody>
+        <tr>
+            <td class="align-middle">
+                <span class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                      data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                      aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </span>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" data-controller="careers-auto-close">
+        <ul class="navbar-nav mr-auto menu-options">
+            <li class="nav-item text-lg-right">
+                <a class="nav-link text-white close_auto"
+                   href="#what-we-do">Was wir tun</a>
+            </li>
+            <li class="nav-item  text-lg-center">
+                <a class="nav-link text-white close_auto"
+                   href="#why-work-at-prt-itf">Warum bei ProRealTime / IT-Finance arbeiten?</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link text-white close_auto"
+                   href="/de/careers#open-positions"
+                >Offene Stellen</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div class="container-fluid p-0 career-header">
+    <div class="row m-0 p-0 text-white text-left text-md-center align-middle logo-container">
+        <table>
+            <tbody>
+            <tr>
+                <td class="align-middle">
+                    <a href="/de/careers">
+                        <img class="img-fluid d-block icon-logos mx-md-auto m-0"
+                             src="/build/images/careers/logos.b6536ef2.svg"
+                            alt="Logo_ProRealTime"
+                        >
+                    </a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <div class="d-none d-md-flex justify-content-end align-items-center">
+            <div class="lang-options d-none d-md-block text-left text-md-left">
+                <div id="lang-selector-trigger" class="lang-selector d-flex align-items-center">
+                    <img class="align-middle pe-1 m-0" src="/build/images/careers/flag-de.69596551.svg"
+                         alt="DE"> ▾
+                </div>
+                <div id="lang-selector-options" class="p-0 m-0" style="display: none">
+                                                <a hreflang="fr"
+                               href="/fr/careers">
+                                <div class="lang-selector lang-selector-opt">
+                                    <img class="align-middle pe-1 m-0"
+                                         src="/build/images/careers/flag-fr.0d5a23c7.svg" alt="FR">
+                                </div>
+                            </a>
+                                                <a hreflang="en"
+                               href="/en/careers/index">
+                                <div class="lang-selector lang-selector-opt">
+                                    <img class="align-middle pe-1 m-0"
+                                         src="/build/images/careers/flag-en.8f8a1f67.svg" alt="EN">
+                                </div>
+                            </a>
+                                    </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="career-picture m-0 py-0">
+    <div class="container-fluid">
+        <div class="row office-preview">
+            <div class="col-12 d-flex align-items-center justify-content-center">
+                <div class="text-center pt-4 pt-md-5">
+                    <a class="no-link text-white"
+                       href="/de/careers#open-positions"
+                    >
+                        <div class="grey-bkg text-white px-4 py-2 h1 font-weight-normal">
+                            Wir haben zurzeit<br>
+                            <span class="counter">7</span> offene Stellen
+                        </div>
+                    </a>
+                    <div class="float-end"><i class="text-right font-italic h3 text-white">Kommen Sie zu uns!</i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="container-fluid maxWidth">
+            <div id="what-we-do" class="row p-0 p-sm-2 p-md-3 p-lg-4">
+                <div class="col-12">
+                    <h1 class="text-left text-blue my-3" id="what-we-do">Was wir tun</h1>
+                    <div class="row">
+                        <div class="col-8 col-lg-7">
+                            <p class="lead">
+                                Wir erstellen Software für private und professionelle Trader, um diese beim Trading zu unterstützen. <br><br>
+                                Unser Ziel ist es, unseren Kunden die besten Analyse- und Trading-Tools in Kombination mit einem der wettbewerbsfähigsten Brokerage-Angebote zu bieten. <br><br>
+                            </p>
+                            <p>Als Teil eines Teams, das Unabhängigkeit und Verantwortung bietet, profitieren Sie von einem großartigen Arbeitsumfeld, um das Beste aus Ihrer Karriere zu machen.</p>
+                            <p>Unser Unternehmen profitiert von seiner Positionierung als Premium-Marke und aktive Investoren schätzen uns für unsere ständige technologische Innovation und finanzielle Expertise.</p>
+                        </div>
+                        <div class="col-4 col-lg-5">
+                            <div class="row">
+                                <div
+                                    class="col-12 col-lg-12 col-xl-6 d-flex flex-column flex-md-row flex-lg-row justify-content-around">
+                                    <div class="text-center ico-universite-container">
+                                        <span class="icon-universite text-blue"></span>
+                                        <p>Firmengründung 2001<br>durch zwei Studienfreunde</p>
+                                    </div>
+                                </div>
+                                <div
+                                    class="col-12 col-lg-12 col-xl-6 d-flex flex-column flex-md-row flex-lg-row justify-content-around">
+                                    <div class="text-center text-ico-container">
+                                        <span class="text-icon text-blue">65</span>
+                                        <p>Angestellte</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div
+                                    class="col-12 col-lg-12 col-xl-6 d-flex flex-column flex-md-row flex-lg-row justify-content-around">
+                                    <div class="text-center  text-ico-container">
+                                        <span class="text-icon text-blue smaller">1.066k</span>
+                                        <p>weltweite Nutzer</p>
+                                    </div>
+                                </div>
+                                <div
+                                    class="col-12 col-lg-12 col-xl-6 d-flex flex-column flex-md-row flex-lg-row justify-content-around">
+                                    <div class="text-center text-ico-container">
+                                        <span class="text-icon text-blue smaller">19,7 Million</span>
+                                        <p>ausgeführte Orders in 2020</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row bi-color">
+                <div class="col-5 col-md-6 col-lg-7 pl-0 office"></div>
+                <div class="col-7 col-md-6 col-lg-5 pr-0 europe pt-4 pt-lg-5">
+                    <h1 class="text-left text-blue pl-5">Unsere Standorte</h1>
+                </div>
+            </div>
+            <div class="row good-stuff" id="why-work-at-prt-itf">
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-tickets-restaurant"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">Essensgutscheine</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-mutuelle"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">Zusatz-Krankenversicherung ("Mutuelle")</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-salaire"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">Attraktives Gehalt</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-nationalites"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">65 Angestelle, 8 Nationalitäten</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-teletravail"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">Teleworking</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-douche"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">Dusche</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-moyenne-age"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">Durchschnittsalter: 33</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 col-md-3">
+        <div class="w-100 h-100 d-flex flex-row flex-md-column justify-content-start justify-content-md-center align-items-center">
+            <div class="text-center px-3">
+                <span class="text-white icon-cadre-agreable"></span>
+            </div>
+            <div class="text-left text-md-center">
+                <span class="text-white">Angenehmes Arbeitsumfeld</span>
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="row">
+                <div class="col-6 col-sm-4 col-md-3 p-0 m-0">
+                    <img src="/build/images/careers/gallery-1.df23c7ee.jpg" class="img-fluid m-0">
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 p-0 m-0">
+                    <img src="/build/images/careers/gallery-2.a90bf49d.jpg" class="img-fluid m-0">
+                </div>
+                <div class="col-6 d-none d-md-block col-md-3 p-0 m-0">
+                    <img src="/build/images/careers/gallery-3.1daae34c.jpg" class="img-fluid m-0">
+                </div>
+                <div class="col-6 col-sm-4 col-md-3 p-0 m-0">
+                    <img src="/build/images/careers/gallery-4.3dd3bde1.jpg" class="img-fluid m-0">
+                </div>
+                <div class="col-6 d-block d-sm-none col-md-3 p-0 m-0">
+                    <img src="/build/images/careers/gallery-3.1daae34c.jpg" class="img-fluid m-0">
+                </div>
+            </div>
+            <div class="row p-0 p-sm-2 p-md-3 p-lg-4">
+                <div class="col-12" id="open-positions">
+                    <h1 class="text-left text-blue my-3">Open positions</h1>
+                    <div class="list">
+
+                                                                                                                                                                                                                                                                                                    <div class="list-item">
+                                    <div class="list-content d-flex p-2">
+                                        <div class="blue-pill">
+                                            <div class="rounded text-center me-3">
+                                                <span class="text-white">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-table-cell w-100 pl-3">
+                                            <p class="lead m-0">B2C Sales &amp; Account Manager - DACH</p>
+                                            <p class="m-0">
+                                                Paris area, CDI <span
+                                                    class="learn-more pe-lg-5">
+                                                    <a class="font-weight-normal"
+                                                       href="/de/careers/sales_de#jobtitle"
+                                                       target="_self">
+                                                        <span
+                                                            class="icon-puce align-middle"></span> Mehr erfahren
+                                                    </a>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="list-item">
+                                    <div class="list-content d-flex p-2">
+                                        <div class="blue-pill">
+                                            <div class="rounded text-center me-3">
+                                                <span class="text-white">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-table-cell w-100 pl-3">
+                                            <p class="lead m-0">B2C Sales &amp; Account Manager - Spanish market</p>
+                                            <p class="m-0">
+                                                Paris area, CDI <span
+                                                    class="learn-more pe-lg-5">
+                                                    <a class="font-weight-normal"
+                                                       href="/de/careers/sales_es#jobtitle"
+                                                       target="_self">
+                                                        <span
+                                                            class="icon-puce align-middle"></span> Mehr erfahren
+                                                    </a>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="list-item">
+                                    <div class="list-content d-flex p-2">
+                                        <div class="blue-pill">
+                                            <div class="rounded text-center me-3">
+                                                <span class="text-white">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-table-cell w-100 pl-3">
+                                            <p class="lead m-0">B2C Sales &amp; Account Manager - Italian market</p>
+                                            <p class="m-0">
+                                                Paris area, CDI <span
+                                                    class="learn-more pe-lg-5">
+                                                    <a class="font-weight-normal"
+                                                       href="/de/careers/sales_it#jobtitle"
+                                                       target="_self">
+                                                        <span
+                                                            class="icon-puce align-middle"></span> Mehr erfahren
+                                                    </a>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="list-item">
+                                    <div class="list-content d-flex p-2">
+                                        <div class="blue-pill">
+                                            <div class="rounded text-center me-3">
+                                                <span class="text-white">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-table-cell w-100 pl-3">
+                                            <p class="lead m-0">B2C Sales &amp; Account Manager  - French market</p>
+                                            <p class="m-0">
+                                                Paris area, CDI <span
+                                                    class="learn-more pe-lg-5">
+                                                    <a class="font-weight-normal"
+                                                       href="/de/careers/sales_fr#jobtitle"
+                                                       target="_self">
+                                                        <span
+                                                            class="icon-puce align-middle"></span> Mehr erfahren
+                                                    </a>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="list-item">
+                                    <div class="list-content d-flex p-2">
+                                        <div class="blue-pill">
+                                            <div class="rounded text-center me-3">
+                                                <span class="text-white">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-table-cell w-100 pl-3">
+                                            <p class="lead m-0">Software and Trading Support Engineer</p>
+                                            <p class="m-0">
+                                                Paris area, CDI <span
+                                                    class="learn-more pe-lg-5">
+                                                    <a class="font-weight-normal"
+                                                       href="/de/careers/support_engineer#jobtitle"
+                                                       target="_self">
+                                                        <span
+                                                            class="icon-puce align-middle"></span> Mehr erfahren
+                                                    </a>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="list-item">
+                                    <div class="list-content d-flex p-2">
+                                        <div class="blue-pill">
+                                            <div class="rounded text-center me-3">
+                                                <span class="text-white">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-table-cell w-100 pl-3">
+                                            <p class="lead m-0">Client service</p>
+                                            <p class="m-0">
+                                                Paris area, CDI <span
+                                                    class="learn-more pe-lg-5">
+                                                    <a class="font-weight-normal"
+                                                       href="/de/careers/client_service#jobtitle"
+                                                       target="_self">
+                                                        <span
+                                                            class="icon-puce align-middle"></span> Mehr erfahren
+                                                    </a>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                <div class="list-item">
+                                    <div class="list-content d-flex p-2">
+                                        <div class="blue-pill">
+                                            <div class="rounded text-center me-3">
+                                                <span class="text-white">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-table-cell w-100 pl-3">
+                                            <p class="lead m-0">Sachbearbeiter/-in im Back Office</p>
+                                            <p class="m-0">
+                                                Paris area, CDI <span
+                                                    class="learn-more pe-lg-5">
+                                                    <a class="font-weight-normal"
+                                                       href="/de/careers/administrative_back_office_agent#jobtitle"
+                                                       target="_self">
+                                                        <span
+                                                            class="icon-puce align-middle"></span> Mehr erfahren
+                                                    </a>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                                                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="career-footer m-0 py-0">
+    <div class="container-fluid maxWidth">
+        <div class="row ">
+            <div class="col col-12 ">
+                <p class="text-white text-left my-3">
+                    <span class="lead">Kein Stellenangebot in Ihrem Kompetenzbereich?</span><br>
+                    Schicken Sie uns einfach Ihren Lebenslauf.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-12 col-lg-9">
+                <p class="text-white text-left">Stellen können jederzeit in den Bereichen Verkauf, Kundendienst, Technischer Support, Datenverwaltung oder Programmierung (C++, Java, PHP, Python) zur Verfügung stehen.</p>
+            </div>
+            <div class="col col-12 col-lg-3 text-center">
+                <button class="w-100 btn btn-primary                          mailto-hr
+                     text-white mb-1"  role="button">
+                    Lebenslauf schicken
+                </button>
+                <small><span class="mailAddr text-white mb-3"></span></small>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+
+                    <div id="back-to-top">
+                                             </div>
+        
+         
+        
+        
+
+<div class="offcanvas offcanvas-end" id="countryLanguageSelector"
+     data-controller="cl-selector"
+     tabindex="-1" aria-hidden="true">
+
+    <div class="offcanvas-header justify-content-end">
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+    </div>
+
+    <div class="offcanvas-body">
+        <p class="fw-semi-bold fs-21">Auswahl von Land / Sprache</p>
+
+        <turbo-frame id="countrySelectorFrame" class="my-30" loading="lazy"
+                     src="/de/country-selection/frame"></turbo-frame>
+
+        <fieldset class="toggle-container my-30">
+            <legend class="col-form-label fw-semi-bold">Sprache</legend>
+            <div class="row g-10">
+                                    <div class="col-4 mt-0">
+                        <input type="radio"                                id="languageSelectEN" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/en/careers/index"
+                               required="required" class="btn-check form-check-input" value="en">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectEN">
+                            <span class="flag-svg flag-svg-en"></span>
+                            <span class="fw-normal fs-12">English</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 mt-0">
+                        <input type="radio"                                id="languageSelectFR" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/fr/careers"
+                               required="required" class="btn-check form-check-input" value="fr">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectFR">
+                            <span class="flag-svg flag-svg-fr"></span>
+                            <span class="fw-normal fs-12">Français</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 mt-0">
+                        <input type="radio" checked                               id="languageSelectDE" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/de/careers"
+                               required="required" class="btn-check form-check-input" value="de">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectDE">
+                            <span class="flag-svg flag-svg-de"></span>
+                            <span class="fw-normal fs-12">Deutsch</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 ">
+                        <input type="radio"                                id="languageSelectES" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/es/careers"
+                               required="required" class="btn-check form-check-input" value="es">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectES">
+                            <span class="flag-svg flag-svg-es"></span>
+                            <span class="fw-normal fs-12">Español</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 ">
+                        <input type="radio"                                id="languageSelectIT" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/it/careers"
+                               required="required" class="btn-check form-check-input" value="it">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectIT">
+                            <span class="flag-svg flag-svg-it"></span>
+                            <span class="fw-normal fs-12">Italiano</span>
+                        </label>
+                    </div>
+                                    <div class="col-4 ">
+                        <input type="radio"                                id="languageSelectNL" name="languageSelect"
+                               data-action="cl-selector#selectLanguage"
+                               data-href="/nl/careers"
+                               required="required" class="btn-check form-check-input" value="nl">
+                        <label class="btn btn-toggle form-check-label d-flex flex-column align-items-center py-10"
+                               for="languageSelectNL">
+                            <span class="flag-svg flag-svg-nl"></span>
+                            <span class="fw-normal fs-12">Nederlands</span>
+                        </label>
+                    </div>
+                            </div>
+        </fieldset>
+
+        <div class="d-flex justify-content-center my-30">
+            <button type="button" class="btn btn-link fw-normal" data-bs-dismiss="offcanvas">
+                Schließen
+            </button>
+        </div>
+    </div>
+</div>
+
+
+                    </body>
+</html>
+
