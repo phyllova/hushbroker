@@ -1,6 +1,0 @@
-/*!
- * Bootstrap v5.1.0 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */.modal{background:rgba(0,0,0,.302)}body{background:url(/build/images/background-reviews.867eaf4d.jpg) no-repeat bottom;background-size:cover}body .paginate{display:flex;justify-content:center}@media screen and (-webkit-min-device-pixel-ratio:2){body{background-image:url(/build/images/background-reviews@2x.5e9b7ffa.jpg)}}body .intro-title{color:#5cb8ec}#feedback_main .community-comments{display:none}#feedback_main .community-comments.show{display:flex}.card{background:rgba(92,184,236,.2) 0 0 no-repeat padding-box;border-radius:6px;margin:20px 0;padding:30px}.card .feedback_description{margin:6px}.card .name{margin-left:15px}.card p{margin-bottom:0}.empty_profile{fill:#5cb8ec}#myPager{border-bottom:0}#myPager .nav-item{border-radius:4px}#myPager .nav-item .nav-link{background-color:#03111a;border:none;border-radius:4px;color:#fff;font:normal normal 600 14px/21px Poppins;letter-spacing:.28px;text-align:center}#myPager .nav-item .nav-link.active{background:rgba(92,184,236,.267) 0 0 no-repeat padding-box;color:#5cb8ec}#myPager .nav-item .nav-link:hover{background:rgba(92,184,236,.133)}
