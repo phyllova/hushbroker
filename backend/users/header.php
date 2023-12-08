@@ -111,9 +111,6 @@
                     <i class="lni lni-chevron-left"></i> Menu
                   </button>
                 </div>
-                <div class="header-search d-none d-sm-flex">
-					<?php section::translator(); ?>
-                </div>
               </div>
             </div>
 			

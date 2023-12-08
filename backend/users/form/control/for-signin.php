@@ -66,11 +66,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 						### send Email;
 						$mail = sysfunc::initMail();
 						$mail->addAddress($__user['email'], $__user['username']);
-						$mail->Subject = "Account Details";
+						$mail->Subject = "SUCCESSFUL LOGIN NOTIFICATION";
 						
-						$temp->mailMsg = "
-							Your account was logged in from (IP: {$ip}) on " . date("F j, Y, g:i a") .". <br>
-							If you did not login from this device, contact your account manager to secure your account.
+						$temp->mailMsg = "You have successfully logged in to your ZerahFX profile on: " . date("F j, Y, g:i a") ." from (IP: {$ip}). <br><br>
+							If you did not initiate this log in, please change your password or send an email to support@tradewithzerah.com. <br><br>
+
+
+Thank you for choosing ZerahFX.
+
+
+Please note that ZerahFX will NEVER ASK for YOUR LOGIN PASSWORD ,TRANSACTION PASSWORD or ACCOUNT DETAILS.
 						";
 
 						$mail->Body = (new email_handler())->message( trim($temp->mailMsg), $__user['username'] );

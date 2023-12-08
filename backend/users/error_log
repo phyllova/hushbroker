@@ -146,3 +146,19 @@ Stack trace:
 [15-Sep-2023 19:40:14 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/pearhcpt/public_html/users/update.php on line 90
 [15-Sep-2023 20:07:50 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/pearhcpt/public_html/users/update.php on line 90
 [16-Sep-2023 04:55:56 America/New_York] PHP Deprecated:  filter_var(): explicit use of FILTER_FLAG_SCHEME_REQUIRED and FILTER_FLAG_HOST_REQUIRED is deprecated in /home/pearhcpt/public_html/config/include/PHPMailer/PHPMailer.php on line 3631
+[09-Nov-2023 07:02:11 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 07:09:24 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/users/update.php on line 90
+[09-Nov-2023 07:11:41 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/users/update.php on line 90
+[09-Nov-2023 07:11:44 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 07:12:29 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 07:17:37 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 07:39:16 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 07:50:47 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 09:13:36 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 10:13:23 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[09-Nov-2023 10:57:55 UTC] PHP Notice:  Undefined variable: email in /home/tradgfkl/pa.tradewithzerah.com/users/log-out.php on line 9
+[10-Nov-2023 08:41:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boxclone() in /home/tradgfkl/pa.tradewithzerah.com/users/mypackage-manager.php:108
+Stack trace:
+#0 /home/tradgfkl/pa.tradewithzerah.com/users/mypackage.php(113): require()
+#1 {main}
+  thrown in /home/tradgfkl/pa.tradewithzerah.com/users/mypackage-manager.php on line 108

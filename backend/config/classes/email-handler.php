@@ -10,63 +10,55 @@ class email_handler {
 	}
 	
 	/* 
-		It is best to avoid repeating code by coping and pasting especially when it will be used so much in a script
-		Therefore, an interface is designed
+		It is best to avoid repeating code by coping and pasting especially when it will be used so much in a script. Therefore, an interface is designed
 	*/
 	
 	protected function designInterface( $message, $username ) { 
 		
 		global $settings;
-		
-		if( empty($this->title) ) $this->title = "Thank you for choosing " . $settings['name'];
-		
+		 
 		ob_start();
 ?>
 	
-<div style="background: #fff;width: 100%;height: 100%; font-family: sans-serif; font-weight: 100;" class="be_container"> 
-
-	<div style="background:#fff;max-width: 600px; margin: 0px auto; padding: 30px;"class="be_inner_containr"> 
-		
-		<div class="be_header">
-
-			<div class="be_logo" style="float: left;"> 
-				<img src="<?php echo $settings['logourl']; ?>"> 
-			</div>
-			
-			<?php if( $username ): ?>
-			<div class="be_user" style="float: right; display: none;"> 
-				<p>Dear: <?php echo $username; ?></p> 
-			</div> 
-			<?php endif; ?>
-			
-			<div style="clear: both;"></div> 
-
-			<div class="be_bluebar" style="background: #1976d2; padding: 10px 20px; color: #fff;margin-top: 10px;">
-				<h2><?php echo $this->title; ?></h2>
-			</div> 
-		
-
-			<div style="line-height: 25px; margin-bottom: 14px;"><?php echo trim($message); ?></div>
-
-			
-				<div style="border-bottom: 1px solid #ccc;"></div>
-
-				<div class="be_bluebar" style="background: #1976d2; padding: 20px; color: #fff;margin-top: 10px; text-align: left;">
-
-					<p> Please do not reply to this email. <br> Emails sent to this address will not be answered. </p>
-					<p> Copyright © <?php echo (new datetime())->format('Y') . ' ' . $settings['name']; ?> </p> 
-					
-					<div class="be_logo" style=" width:60px;height:40px;float: right;"> </div> 
-					
-				</div> 
-			
-		
-		</div>
+<body style="font-family: sans-serif; font-size: 16px; background-color: #fff; margin: 0; padding: 0;" align="center">
 	
-	</div>
-	
-</div>
-				
+    <td align="left" >    
+    <table cellpadding="0" cellspacing="0" width="100%" bgcolor="#fff">
+        <tr>
+            <td align="left" >
+                <table cellpadding="0" cellspacing="0" width="600" style="background-color: #fff; margin-top: 20px; margin-bottom: 20px;">
+                    <tr>
+                        <td align="left" style="background-color: #142433;" >
+        <div class="be_logo" align="center"> 
+            <img src="<?php echo $settings['logourl']; ?>"> 
+    	</div>    
+    </td>    
+                    </tr>
+                    <?php if ($username): ?>
+                    <tr>
+                        <td align="left" style="padding: 20px;">
+                            <p>Hello <?php echo $username; ?>,</p>
+                        </td>
+                    </tr> 
+                    <?php endif; ?>
+                    <tr> 
+                        <td align="left" style="padding: 20px;">
+                            <h4 style="color: #333;"><?php echo $this->title; ?></h4>
+                            <p style="color: #333; line-height: 1.5;"><?php echo trim($message); ?></p>
+                        </td>
+                    </tr>
+                    <tr> 
+                        <td align="left" style="background-color: #142433; padding: 20px; color: white;">
+                            <p style="font-size: 10px;"><strong>Risk Warning:</strong> CFD's and Foreign Exchange (FX) traded on margin carry a high degree of risk. As such they may not be suitable for all investors. Investors should ensure they fully understand the risks associated with leveraged CFD and FX trading before deciding to trade because you can lose some or all invested capital. Investors may choose to seek independent advice and should not risk more than they are prepared to lose.</p>
+                            <p style="font-size:10px;">&copy;<?php echo (new DateTime())->format('Y'); ?> - <a href="<?php echo $settings['name']; ?>" style="color: white; text-decoration: none;"><?php echo $settings['name']; ?></a></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
 <?php 
 
 		$output = ob_get_clean();
@@ -109,4 +101,3 @@ class email_handler {
 	}
 	
 };
-

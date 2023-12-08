@@ -7,9 +7,9 @@
 */
 
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', ' tradgfkl_zerahfxtrade' );
-define('DB_PASSWORD', 'Vg7NUxMuZAyc' );
-define('DB_NAME', ' tradgfkl_zerahfxtrade');
+define('DB_USERNAME', 'forereyj_forexroveruser' );
+define('DB_PASSWORD', 't6OAaDbvN0zk' );
+define('DB_NAME', 'forereyj_forexrover');
  
 /* Attempt to connect to MySQL database */
 

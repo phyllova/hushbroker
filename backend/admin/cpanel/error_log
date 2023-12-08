@@ -13,3 +13,32 @@
 [15-Nov-2022 08:19:14 America/New_York] PHP Notice:  Undefined index: phone in /home/scrixuez/public_html/aa-superhyip/config/include/settings.php on line 24
 [15-Nov-2022 08:19:32 America/New_York] PHP Notice:  Undefined index: cy in /home/scrixuez/public_html/aa-superhyip/admin/cpanel/settings.php on line 89
 [10-Dec-2022 06:40:50 America/New_York] PHP Deprecated:  Non-static method sysfunc::validateImage() should not be called statically in /home/scrixuez/public_html/aa-superhyip/admin/cpanel/addwallet.php on line 13
+[06-Nov-2023 01:48:14 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 09:10:02 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 09:10:14 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 09:10:27 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 09:10:49 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 11:06:00 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 11:06:05 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:18:43 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:33:27 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:33:33 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:33:40 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:33:50 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:37:18 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:38:04 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:39:46 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:40:46 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:40:49 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:45:39 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:45:42 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:46:31 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:49:19 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:50:17 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:53:45 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 12:54:49 UTC] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/user-edit.php on line 43
+[09-Nov-2023 17:04:30 UTC] PHP Deprecated:  Non-static method sysfunc::validateImage() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/addwallet.php on line 13
+[09-Nov-2023 17:05:04 UTC] PHP Deprecated:  Non-static method sysfunc::validateImage() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/addwallet.php on line 13
+[09-Nov-2023 17:05:23 UTC] PHP Deprecated:  Non-static method sysfunc::validateImage() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/addwallet.php on line 13
+[09-Nov-2023 17:05:49 UTC] PHP Deprecated:  Non-static method sysfunc::validateImage() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/addwallet.php on line 13
+[09-Nov-2023 17:06:06 UTC] PHP Deprecated:  Non-static method sysfunc::validateImage() should not be called statically in /home/tradgfkl/pa.tradewithzerah.com/admin/cpanel/addwallet.php on line 13

@@ -4,7 +4,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<link rel="icon" href="<?php echo sysfunc::url( __core_views . '/assets/img/acebarter-icon.png' ); ?>">
+<link rel="icon" type="image/png" href="https://tradewithzerah.com/templates/custom/images/favicon_zerahfx.jpg"/>	
 <title><?php echo $settings['title']; ?></title>
 
 <link rel="stylesheet" href="<?php echo sysfunc::url( __core_vendors . '/components/font-awesome/css/font-awesome.min.css' ); ?>">

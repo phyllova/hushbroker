@@ -1,0 +1,2 @@
+[08-Nov-2023 12:57:23 UTC] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/tradgfkl/pa.tradewithzerah.com/config/config.php on line 42
+[08-Nov-2023 13:01:25 UTC] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/tradgfkl/pa.tradewithzerah.com/config/config.php on line 42

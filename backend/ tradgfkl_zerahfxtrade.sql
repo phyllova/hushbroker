@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `tradgfkl_zerahfxtrade`
+-- Database: `forereyj_forexrover`
 --
 
 -- --------------------------------------------------------
@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `email`, `password`) VALUES
-(1, 'support@tradewithzerah.com', '0192023a7bbd73250516f069df18b500');
+(1, 'support@forexrover.com', '0192023a7bbd73250516f069df18b500');
 
 -- --------------------------------------------------------
 
@@ -167,9 +167,9 @@ CREATE TABLE `packages` (
 --
 
 INSERT INTO `packages` (`id`, `email`, `pname`, `increase`, `bonus`, `status`, `date`, `sid`, `min_amount`, `max_amount`, `duration`) VALUES
-(20, 'support@tradewithzerah.com', 'Standard', 0.5, 0, 1, '2023-09-10 20:21:07', 'mys64fe2533c7a23', 100, 2000, 30),
-(21, 'support@tradewithzerah.com', 'Ruby', 1.3, 20, 1, '2023-09-10 20:22:01', 'mys64fe256984520', 2000, 5000, 30),
-(22, 'support@tradewithzerah.com', 'Treasure Bull', 1.6, 50, 1, '2023-09-10 20:32:06', 'mys64fe27c6aebec', 5000, 10000, 30);
+(20, 'support@forexrover.com', 'Standard', 0.5, 0, 1, '2023-09-10 20:21:07', 'mys64fe2533c7a23', 100, 2000, 30),
+(21, 'support@forexrover.com', 'Ruby', 1.3, 20, 1, '2023-09-10 20:22:01', 'mys64fe256984520', 2000, 5000, 30),
+(22, 'support@forexrover.com', 'Treasure Bull', 1.6, 50, 1, '2023-09-10 20:32:06', 'mys64fe27c6aebec', 5000, 10000, 30);
 
 -- --------------------------------------------------------
 
@@ -190,7 +190,7 @@ CREATE TABLE `pmethod` (
 --
 
 INSERT INTO `pmethod` (`id`, `email`, `pmethod`, `details`, `imgs`) VALUES
-(19, 'support@tradewithzerah.com', 'Bitcoin', '1MNfsMwiGZdCf8tKApsbtcvJjuHLXi2vDK', 'f00e672b5dfe291fda366400f2897003.png');
+(19, 'support@forexrover.com', 'Bitcoin', '1MNfsMwiGZdCf8tKApsbtcvJjuHLXi2vDK', 'f00e672b5dfe291fda366400f2897003.png');
 
 -- --------------------------------------------------------
 
@@ -219,7 +219,7 @@ CREATE TABLE `settings` (
 --
 
 INSERT INTO `settings` (`id`, `sname`, `wl`, `rb`, `bname`, `baddress`, `email`, `title`, `logo`, `phone`, `cy`, `email_api`, `refbonus`) VALUES
-(2, 'tradewithzerah.com', 100, 50, 'ZerahFX', '', 'info@tradewithzerah.com', 'ZerahFX', 'logo.svg', '', 2023, 0, '');
+(2, 'forexrover.com', 100, 50, 'ZerahFX', '', 'info@forexrover.com', 'ZerahFX', 'logo.svg', '', 2023, 0, '');
 
 -- --------------------------------------------------------
 

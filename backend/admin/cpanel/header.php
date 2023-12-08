@@ -59,7 +59,7 @@
 					<li class="treeview">
 						<a href="#">
 						<i class="fa fa-bank"></i>
-						<span> Gateways</span>
+						<span>Finance</span>
 						<span class="pull-right-container">
 						<i class="fa fa-angle-down pull-right"></i>
 						</span>

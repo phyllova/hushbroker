@@ -2,8 +2,8 @@
 
 // Define variables and initialize with empty values
 
-$username = $email = $password = $cpassword = $address = $phone = $country = null;
-$username_err = $email_err = $password_err = $cpassword_err =  $address_err = $phone_err = $country_err =  null;
+$username = $firstname = $lastname = $email = $password = $cpassword = $address = $phone = $country = $rb = null;
+$username_err = $firstname_err = $lastname_err = $email_err = $password_err = $cpassword_err =  $address_err = $phone_err = $country_err =  null;
 
 $refcode = sysfunc::sanitize_input($_GET['refcode'] ?? '');
 
