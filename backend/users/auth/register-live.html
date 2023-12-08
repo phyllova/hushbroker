@@ -27,12 +27,12 @@ require __dir__ . '/form-header.php';
   <link rel="alternate" hreflang="x-default" href="https://forexrover.com/lang=en" />
   <title>ForexRover Markets</title>
   <meta name="next-head-count" content="14" />
-  <link rel="preload" href="_next/static/css/cfb784637a456fb2.css" as="style" />
-  <link rel="stylesheet" href="_next/static/css/cfb784637a456fb2.css" data-n-g="" />
-  <link rel="preload" href="_next/static/css/d75f2929181a8af9.css" as="style" />
-  <link rel="stylesheet" href="_next/static/css/d75f2929181a8af9.css" data-n-p="" />
-  <link rel="preload" href="_next/static/css/dab67e39f892d873.css" as="style" />
-  <link rel="stylesheet" href="_next/static/css/dab67e39f892d873.css" data-n-p="" />
+  <link rel="preload" href="/_next/static/css/cfb784637a456fb2.css" as="style" />
+  <link rel="stylesheet" href="/_next/static/css/cfb784637a456fb2.css" data-n-g="" />
+  <link rel="preload" href="/_next/static/css/d75f2929181a8af9.css" as="style" />
+  <link rel="stylesheet" href="/_next/static/css/d75f2929181a8af9.css" data-n-p="" />
+  <link rel="preload" href="/_next/static/css/dab67e39f892d873.css" as="style" />
+  <link rel="stylesheet" href="/_next/static/css/dab67e39f892d873.css" data-n-p="" />
 </head>
 
 <body>
@@ -145,6 +145,7 @@ require __dir__ . '/form-header.php';
                       </div>
                       <label class="Input_inputLabel__TWAkI Input_up__dbccE">Email Address</label>
                       <div class="Input_errors__6Diyc">
+                        <?php echo $email_err; ?>
                       </div>
                     </div>
                     <div class="inputWrap Input_inputWrap__SOE5Z" data-testid="InputField-wrapper">
@@ -155,6 +156,7 @@ require __dir__ . '/form-header.php';
                       </div>
                       <label class="Input_inputLabel__TWAkI Input_up__dbccE">Username</label>
                       <div class="Input_errors__6Diyc">
+                        <?php echo $username_err; ?>
                       </div>
                     </div>
                     <div class="Input_input__6F3Eu WorldwidePhoneInput_worldwidePhone__yViPz">
@@ -4122,6 +4124,7 @@ require __dir__ . '/form-header.php';
                           </div>
                         </div><label class="Input_inputLabel__TWAkI Input_up__dbccE">Mobile Phone</label>
                         <div class="Input_errors__6Diyc">
+                          <?php echo $phone_err; ?>
                         </div>
                       </div>
                     </div>
@@ -8140,7 +8143,9 @@ require __dir__ . '/form-header.php';
                                 style="-webkit-mask-image: url(&quot;https://d1pe6tj7si7a9n.cloudfront.net/sca-images/icons/eye.svg&quot;); background-color: rgb(200, 6, 0);"></span></span></button>
                         </div>
                       </div><label class="Input_inputLabel__TWAkI Input_up__dbccE">Password</label>
-                      <div class="Input_errors__6Diyc"></div>
+                      <div class="Input_errors__6Diyc">
+                        <?php echo $password_err; ?>
+                      </div>
                     </div>
                     <div class="inputWrap Input_inputWrap__SOE5Z register__password      "
                       data-testid="InputField-wrapper">
@@ -8154,7 +8159,9 @@ require __dir__ . '/form-header.php';
                                 style="-webkit-mask-image: url(&quot;https://d1pe6tj7si7a9n.cloudfront.net/sca-images/icons/eye.svg&quot;); background-color: rgb(200, 6, 0);"></span></span></button>
                         </div>
                       </div><label class="Input_inputLabel__TWAkI Input_up__dbccE">Confirm Password</label>
-                      <div class="Input_errors__6Diyc"></div>
+                      <div class="Input_errors__6Diyc">
+                        <?php echo $cpassword_err; ?>
+                      </div>
                     </div>
 
                     <input class="form-control " id="inp" type="hidden" name="referred" readonly
@@ -8176,7 +8183,7 @@ require __dir__ . '/form-header.php';
                         style="margin-right: 0px; margin-left: 0px;" name="submit">GET STARTED</button>
                       <p>Already a client?<button class="Button_button__mNI1O Button_text__HE4Yz"
                           style="text-decoration: underline; padding: 0px; margin-left: 3px;"><a
-                            href="index.php">Log in here</a></button></p>
+                            href="<?php echo sysfunc::url( __users_login_page ); ?>">Log in here</a></button></p>
                     </div>
                   </div>
                 </form>
@@ -8203,6 +8210,8 @@ require __dir__ . '/form-header.php';
       </section>
     </main>
   </div>
+  <script id="__NEXT_DATA__"
+    type="application/json">{"props":{"pageProps":{}},"page":"/auth/register-live","query":{},"buildId":"tNrQdIk_M6r-x_00Kt5xG","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script>
 </body>
 
 </html>
