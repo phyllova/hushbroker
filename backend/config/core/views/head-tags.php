@@ -4,7 +4,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<link rel="icon" type="image/png" href="https://tradewithzerah.com/templates/custom/images/favicon_zerahfx.jpg"/>	
+<link rel="icon" type="image/png" href="https://forexrover.com/wp-content/uploads/2023/12/favicon-32x32.png"/>	
 <title><?php echo $settings['title']; ?></title>
 
 <link rel="stylesheet" href="<?php echo sysfunc::url( __core_vendors . '/components/font-awesome/css/font-awesome.min.css' ); ?>">

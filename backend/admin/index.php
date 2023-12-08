@@ -21,7 +21,7 @@ require __dir__ . '/control/for-admin-signin.php';
   <meta property="fb:app_id" content="332858721648289" />
   <link rel="alternate" hreflang="undefined" href="https://forexrover.com?lang=undefined" />
   <link rel="alternate" hreflang="x-default" href="https://forexrover.com/lang=en" />
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://forexrover.com/wp-content/uploads/2023/12/favicon-32x32.png">
 
   <title>Admin - ForexRover Markets</title>
   <meta name="next-head-count" content="14" />
