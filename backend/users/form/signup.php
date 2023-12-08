@@ -33,6 +33,7 @@ require __dir__ . '/form-header.php';
   <link rel="stylesheet" href="_next/static/css/d75f2929181a8af9.css" data-n-p="" />
   <link rel="preload" href="_next/static/css/dab67e39f892d873.css" as="style" />
   <link rel="stylesheet" href="_next/static/css/dab67e39f892d873.css" data-n-p="" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://forexrover.com/wp-content/uploads/2023/12/favicon-32x32.png">
 
 </head>
 
@@ -125,9 +126,7 @@ require __dir__ . '/form-header.php';
 
               <div class="Register_registerContent__PbtFh ">
                 <?php sysfunc::html_notice( $temp->msg ); ?>
-                <form action="<?php echo sysfunc::sanitize_input($_SERVER[" PHP_SELF"]);?>"
-                  method="POST" name="form1"
-                  id="form1">
+                <form  action="<?php echo sysfunc::sanitize_input($_SERVER["PHP_SELF"]);?>" method="POST">
                   <div hidden class="inputWrap Input_inputWrap__SOE5Z" style="margin-left: 0; padding-right: 0"
                     data-testid="InputField-wrapper">
                     <div class="Input_inputWrapInner__XaBQN">

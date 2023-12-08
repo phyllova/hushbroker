@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 				
 				$mail = sysfunc::initMail();
 				$mail->addAddress($email);
-				$mail->Subject = "Password reset for ZerahFX";
+				$mail->Subject = "Password reset for ForexRover Markets";
 				
 				$temp->mailLink = sysfunc::url( __users_reset_confirm_page ) . "?id={$id}&email={$email}";
 				
